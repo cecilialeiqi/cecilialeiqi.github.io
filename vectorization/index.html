@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Vectorization</h1>
+<h2> Vectorization of Line Drawing Image based on Junction Analysis</h2>
+<h3> Abstract </h3> 
+<p> 
+Converting a scanned or shot line drawing image into a vector graph can facilitate further editing and
+reuse, which is one of the hot research topics in computer animation and image processing. Besides avoiding
+influence of image noises, its main challenge is to preserve the topological structures of the original line
+drawings, such as line junctions, in the procedure of obtaining a smooth vector graph from a rough line drawing.
+In this paper, we propose a vectorization method of line drawings based on junction analysis, which overcomes
+the structure-preserving issue in existing methods. We first combine centerline tracing and contour tracing, which
+allows us to detect the encounter of line junctions when tracing a single path. And then, a junction analysis
+approach based on intensity polar mapping is proposed, to compute the number and orientations of junction
+branches. Finally, we make use of bending degrees of contour paths to compute the smoothness between adjacent
+branches, which allows us to obtain the topological structures in correspondence to the ones presented in the
+input image. We have also introduced a refining mechanism based on quadratic surface fitting for path tracing,
+which avoids accumulating errors of traditional path tracing and improves the robustness for vectorizing rough
+line drawings. We demonstrate the validity of our method through comparisons with existing methods, and a
+large amount of experiments on both professional and amateurish line drawing images.
+</p>
+The code can be downloaded from </html><a href="http://users.ices.utexas.edu/~leiqi/vectorization/vector.zip">here</a>,
+
+and full paper from </html><a href="http://link.springer.com/article/10.1007%2Fs11432-014-5246-x"> Science China</a>
+</body>

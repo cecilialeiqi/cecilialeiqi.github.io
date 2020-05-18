@@ -1,0 +1,74 @@
+# jemdoc: menu{MENU}{index.html}
+# The first line of this file is a special command that tells jemdoc which menu
+# entry in the file named MENU to associate this page with.
+= Publication List
+
+
+== Preprints
+
+23. Jay Whang, *Qi Lei*, Alexandros G. Dimakis. [https://arxiv.org/abs/2003.08089 "Compressed Sensing with Invertible Generative Models and Dependent Noise"], /arxiv preprint/
+
+22. Lemeng Wu, Mao Ye, *Qi Lei*, Jason D. Lee, and Qiang Liu.  [https://arxiv.org/abs/2003.10392 "Steepest Descent Neural Architecture Optimization: Escaping Local Optimum with Signed Neural Splitting"], /arxiv preprint/
+
+21. Simon S. Du\*, Wei Hu\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*.  [https://arxiv.org/abs/2002.09434 "Few-Shot Learning via Learning the Representation, Provably"], /arxiv preprint/
+
+20. Minhao Cheng, *Qi Lei*, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh. [https://arxiv.org/abs/2002.06789  "CAT: Customized Adversarial Training for Improved Robustness"], /arxiv preprint/
+
+19. *Qi Lei*\*, Sai Ganesh Nagarajan\*, Ioannis Panageas\*, Xiao Wang\*. [https://arxiv.org/abs/2002.06768  "Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes"], /arxiv preprint/
+
+18. *Qi Lei*, Jason D. Lee, Alexandros G. Dimakis, Constantinos Daskalakis. [https://arxiv.org/abs/1910.07030 "SGD Learns One-Layer Networks in WGANs"], /arxiv preprint/
+
+== Publications
+
+17. Jiacheng Zhuo, *Qi Lei*, Alexandros G. Dimakis, Constantine Caramanis. [https://arxiv.org/abs/1910.07703 "Communication-Efficient Asynchronous Stochastic Frank-Wolfe over Nuclear-norm Balls"], /To appear in AISTATS 2020/
+
+16. *Qi Lei*, Jiacheng Zhuo, Constantine Caramanis, Inderjit S Dhillon, Alexandros G Dimakis. [https://arxiv.org/abs/1906.02436 "Primal-Dual Block Frank-Wolfe"], /Proc. of Neural Information Processing Systems (NeurIPS) 2019/ ([PDBFW.pdf slides], [PDBFW_poster.pdf poster], [https://github.com/CarlsonZhuo/primal_dual_frank_wolfe code])
+
+15. *Qi Lei*, Ajil Jalal, Inderjit S. Dhillon, Alexandros G. Dimakis. [https://arxiv.org/abs/1906.07437 "Inverting Deep Generative models, One layer at a time"], /Proc. of Neural Information Processing Systems (NeurIPS) 2019/ ([invert_GAN_poster.pdf poster], [https://github.com/cecilialeiqi/InvertGAN_LP code])
+
+
+14. *Qi Lei*, Jinfeng Yi, Roman Vaculin, Lingfei Wu, Inderjit Dhillon. [https://arxiv.org/abs/1702.03584 "Similarity Preserving
+Representation Learning for Time Series Analysis"], /The 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019/. [https://github.com/cecilialeiqi/SPIRAL (code)]
+
+13. *Qi Lei*, Lingfei Wu, Pin-Yu Chen, Alexandros G. Dimakis, Inderjit S. Dhillon, Michael Witbrock. [https://arxiv.org/abs/1812.00151 "Discrete Adversarial Attacks and Submodular Optimization with Applications to Text Classification"], /Systems and Machine Learning (sysML). 2019/ [https://github.com/cecilialeiqi/adversarial_text (code], [discrete_attack.pdf slides)] 
+- Press coverage: [https://www.nature.com/articles/d41586-019-01510-1?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews&sf212595612=1 <Nature Story>] [https://venturebeat.com/2019/04/01/text-based-ai-models-are-vulnerable-to-paraphrasing-attacks-researchers-find/ <Vecturebeat>] [https://bdtechtalks.com/2019/04/02/ai-nlp-paraphrasing-adversarial-attacks/ <Tech Talks>] [https://www.jiqizhixin.com/articles/2019-03-27-10?from=synced&keyword=SysML%202019 <机器之心>]
+
+12. Jinfeng Yi, *Qi Lei*,  Wesley Gifford, Ji Liu. [https://arxiv.org/pdf/1702.06362.pdf "Negative-Unlabeled Tensor Factorization for Location Category Inference from Inaccurate Mobility Data"], /SIAM International Conference on Data Mining (SDM), 2019/ [https://github.com/cecilialeiqi/NUTF (code)]
+
+11. Zhewei Yao, Amir Gholami, *Qi Lei*, Kurt Keutzer, Michael W. Mahoney. [https://arxiv.org/abs/1802.08241 "Hessian-based Analysis of Large Batch Training and Robustness to Adversaries"], /Neural Information Processing Systems (NIPS), 2018/
+
+10. Jiong Zhang, *Qi Lei*, Inderjit Dhillon, [http://proceedings.mlr.press/v80/zhang18g.html "Stabilizing Gradients for Deep Neural Networks via Efficient SVD Parameterization"], /International Conference of Machine Learning (ICML), July. 2018/
+
+9. Lingfei Wu, Ian En-Hsu Yen, Jinfeng Yi, Fangli Xu, *Qi Lei* and Michael Witbrock, [http://proceedings.mlr.press/v84/wu18b.html "Random Warping Series: A Random Features Method for Time-Series Embedding"], /Proceedings of the Twenty-First International Conference on Artificial Intelligence and Statistics (AISTATS), 2018/
+
+#10. Jiong Zhang, *Qi Lei*, Inderjit Dhillon, [https://openreview.net/forum?id=SyL9u-WA- "Stabilizing Gradients for Deep Neural Networks via Efficient SVD Parameterization"], /Deep Learning at Supercomputer scale Workshop at NIPS, Dec. 2017/
+
+8. Hsiang-fu Yu, Cho-Jui Hsieh, *Qi Lei*, Inderjit Dhillon, [https://arxiv.org/abs/1610.03317 "A Greedy Approach for Budgeted Maximum Inner Product Search"], /Proc. of Neural Information Processing Systems (NIPS), 2017/ 
+
+7. *Qi Lei*, Enxu Yan, Chao-yuan Wu, Pradeep Ravikumar, Inderjit Dhillon, [DGPDC.pdf "Doubly Greedy Primal-Dual Coordinate Methods for Sparse Empirical Risk Minimization"], /Proc. of International Conference of Machine Learning (ICML), 2017/ [https://github.com/a061105/Primal-Dual-ActiveCD (code)]
+
+6. Rashish Tandon, *Qi Lei*, Alexandros G. Dimakis, Nikos Karampatziakis, [https://arxiv.org/abs/1612.03301 "Gradient Coding: Avoiding Stragglers in Distributed Learning"], /Proc. of International Conference of Machine Learning (ICML), 2017/ [https://github.com/rashisht1/gradient_coding (code)]
+
+5. *Qi Lei*, Kai Zhong, Inderjit. Dhillon, [http://users.ices.utexas.edu/~leiqi/CPM.pdf "Coordinate-wise Power Method"], /Proc. of Neural Information Processing
+Systems (NIPS), Dec. 2016/ ([https://github.com/cecilialeiqi/CPM code],[cpm_poster.pdf poster])
+
+#5. Rashish Tandon, *Qi Lei*, Alexandros G. Dimakis, Nikos Karampatziakis, [http://users.ices.utexas.edu/~leiqi/stragglers_nips.pdf "Gradient Coding"], /ML Systems Workshop at NIPS, Dec. 2016/
+
+4. Arnaud Vandaele, Nicolas Gillis, *Qi Lei*, Kai Zhong, Inderjit Dhillon, [http://users.ices.utexas.edu/~leiqi/symNMF.pdf "Efficient and Non-Convex Coordinate Descent Methods for Symmetric Nonnegative Matrix Factorization"], /IEEE Transactions on Signal Processing 64.21 (2016): 5571-5584/ [https://www.dropbox.com/s/rh24r7cf1qxiv6k/symNMF%20-%20code%20Arnaud.zip?dl=0 (code)]
+
+3. Maria R. D'Orsogna, *Qi Lei*, Tom Chou, [https://www.csun.edu/~dorsogna/mwebsite/papers/coagfrag_TC15.pdf "First assembly times and equilibration in stochastic coagulation-fragmentation"], /The Journal of Chemical Physics, 2015: 143.1, 014112/
+
+2. Jiazhou Chen, *Qi Lei*, Yongwei Miao, Qunsheng Peng, [vectorization.pdf "Vectorization of Line Drawing Image based on Junction Analysis"], /Science China Information Sciences, 2014:1-14/ [vectorization/vector.zip (code)]
+
+1. Jiazhou Chen, *Qi Lei*, Fan Zhong, Qunsheng Peng, [imagePro.pdf "Interactive Tensor Field Design Based on Line Singularities"], /Proceedings of the 13th International CAD\/Graphics, 2013/ [imagePro/imagePro.zip (code)]
+
+== Patents
+
+[ "Method and System for General and Efficient Time Series Representation Learning via Dynamic Time Warping"]\n
+with J. Yi, R. Vaculin, W. Sun
+
+[ "Real-Time Cold Start Recommendation and Rationale within a Dialog System" ]\n
+with J. Yi, R. Vaculin, M. Pietro
+
+
+

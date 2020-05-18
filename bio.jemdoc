@@ -1,0 +1,109 @@
+# jemdoc: menu{MENU}{index.html}
+# The first line of this file is a special command that tells jemdoc which menu
+# entry in the file named MENU to associate this page with.
+= Short Bio
+
+Qi Lei is a PhD candidate of [https://www.oden.utexas.edu/ Oden Institute for Computational Engineering & Sciences] at UT Austin, where she is also a member of the Center for Big Data Analytics and the Wireless Networking & Communications Group. Currently she is visiting Institute for Advanced Studies (IAS) for the Theoretical Machine Learning Program. Before that, she was a research fellow at Simons Institute for the Foundations of Deep Learning Program. Her main research interests are in machine learning, deep learning and optimization. She received her B.S. degree from Zhejiang University, and master degree from UT Austin. Qi has received several awards, including four years of the National Initiative for Modeling and Simulation Graduate Research Fellowship, and Simons-Berkeley Research Fellowship for 2019 summer. She also owns several patents. 
+
+== Research Interests:
+
+Currently there is a significant effort in both academia and industry for scalable machine learning, which also aligns with my interests. I believe most promising outcomes of data science involve a large amount of data, especially of very high dimensions. Therefore I care about developing novel and scalable algorithms that provably exploit the underlying problem structure such as sparsity or low-rank properties for big data. For deep learning models, I specifically also care about stabilizing their training process via designing better network architecture, as well as improving and understanding its adversarial robustness. I’m recently more interested in understanding the dynamics of minimax problems with applications of training deep generative models and adversarial training. 
+
+
+== Curriculum Vitae:
+([cv_2.pdf Curriculum Vitae], [https://github.com/cecilialeiqi/ Github], [https://scholar.google.com/citations?user=kGOgaowAAAAJ&hl=en Google Scholar])
+
+
+
+== Education
+
+[http://www.utexas.edu/ Unversity of Texas at Austin], Austin, TX
+
+Ph.D student in [https://www.ices.utexas.edu/ Institute for Computational Engineering and Sciences]   ~~~~~~/August 2014 - Present/
+
+[http://www.math.ias.edu/theoretical_machine_learning Institute of Advanced Study], Princeton, NJ
+
+Visiting Graduate Student for the [https://www.math.ias.edu/sp/Optimization_Statistics_and_Theoretical_Machine_Learning Special Year on Optimization, Statistics and Theoretical Machine Learning] ~~~~~~ /September 2019 - December 2019/
+
+[https://simons.berkeley.edu/programs/dl2019 Simons Institute], Berkeley, CA
+
+Research Fellow for the [https://simons.berkeley.edu/programs/dl2019 Foundations of Deep Learning Program]  ~~~~~ /May 2019 - August 2019/
+
+
+[http://www.zju.edu.cn/english/ Zhejiang University], Zhejiang, China
+
+B.S. in Mathematics  ~~~~~~ /August 2010 - May 2014/
+
+
+
+== Awards and Recognitions
+
+- Simons-Berkeley Research Fellowship Simons Institute, 2019
+
+- The National Initiative for Modeling and Simulation Research Fellowship ($225K for four years) UT Austin, 2014-2018
+
+- Rising Star for EECS (An Academic Career Workshop for Women in EECS), 2019
+
+- Meritorious Winner (First Prize) for The Mathematical Contest in Modeling
+(MCM) COMAP, 2014
+
+
+- Gold medal (5th place) in China Girls Math Olympiad (CGMO, an international competition with a proof-based format similar to the International Math Olympiad), 2009
+
+
+- First Prize for CMC (the Mathematics competition of Chinese College Student), China, 2012
+
+- First Prize for National Olympiad in Informatics in Provinces (NOIP),	China, 2007(perfect score), 2008
+
+
+== Experience
+[ Facebook Visual Understanding Team], Menlo Park, CA
+
+Software Engineering Intern ~~~~~~ /June 2018 - September 2018/
+
+[https://www.a9.com/whatwedo/product-search/ Amazon/A9 Product Search Lab], Palo Alto, CA
+
+Software Development Intern, Search Technologies ~~~~~ /May 2017 - August 2017/
+
+[ Amazon Web Services (AWS) Deep Learning Team], Palo Alto, CA
+
+Applied Scientist Intern ~~~~~~ /January 2017 - April 2017/
+
+
+[https://www.research.ibm.com/labs/watson/ IBM Thomas J. Watson Research Center], Yorktown Heights, NY   
+
+Research Summer Intern   ~~~~~~ /May 2016 - October 2016/
+
+[ UCLA Biomath Department], Los Angeles, CA
+
+Visiting Student    ~~~~~~  /July 2013 - September 2013/ 
+
+== Invited Talk
+[http://faculty.smu.edu/sxu/SIAMTXLA19/index.html "Deep Generative models and Inverse Problems"], Nov\/02\/2019: 
+Minisymposium on Machine Learning for Solving Partial Differential Equations and Inverse Problems, 2019 SIAM Texas-Louisiana Section, Dallas, TX, USA
+
+[https://www.youtube.com/watch?v=UnakqzVLVLI "Discrete Adversarial Attacks and Submodular Optimization with Applications to Text Classification"], July\/02\/2019: Simons-Berkeley Fellows Talk, Berkeley, CA, USA. April\/01\/2019: SysML19, Stanford, CA, USA.
+
+[http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66077 "Recent Advances in Primal-Dual Coordinate Methods for ERM"], Feb\/25\/2019: 
+Minisymposium on Recent Progress in Coordinate-wise Descent Methods, 2019 SIAM Conference on Computational Science and Engineering, Spokane, WA, USA ([pd_slides.pdf slides]) 
+
+[http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=22986 "Coordinate Descent Methods for Matrix Factorization"], July\/11\/2016: 
+Minisymposium on Recent Advances in Nonnegative Matrix Factorization, SIAM Annual Meeting, Boston, USA
+
+
+== Service
+[ Conference Reviewer]: STOC(20), NeurIPS(16,17,18,19), ICML(18,19), ICLR(18,19,20), AISTATS(18,19,20), AAAI(20), ACML(19), and more
+
+[ Journal Reviewer]: MOR(19), TNNLS(19), TKDE(19), ISIT(17,18), TIIS(17), IT(16,17), and more
+
+
+== Teaching
+
+[ Scalable Machine Learning], Teaching Assistant, Fall 2019 
+
+[ Mathematical Methods in Applied Engineering and Sciences], Instructer Intern, Spring 2016 
+
+
+#{{<div align='center'><a href='http://www.hit-counts.com'><img src='http://www.hit-counts.com/counter.php?t=MTQwMjAyOA==' border='0' alt='Visitor Counter'></a><BR><a href='http://www.hit-counts.com'>Visitor Counter</a></div>}}
+
+
