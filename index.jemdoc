@@ -22,6 +22,9 @@ My research interests are *machine learning*, *deep learning* and *optimization*
 
 
 == News and Announcement
+[06/2020] Our paper is accepted to ICML 2020: 
+- *Qi Lei*, Jason D. Lee, Alexandros G. Dimakis, Constantinos Daskalakis. [https://arxiv.org/abs/1910.07030 "SGD Learns One-Layer Networks in WGANs"] 
+
 [03/2020] New papers out:
 - [https://arxiv.org/abs/2003.10392 "Steepest Descent Neural Architecture Optimization: Escaping Local Optimum with Signed Neural Splitting"]
 - [https://arxiv.org/abs/2003.08089 "Compressed Sensing with Invertible Generative Models and Dependent Noise"]
