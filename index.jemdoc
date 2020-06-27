@@ -68,19 +68,17 @@ My research interests are *machine learning*, *deep learning* and *optimization*
 
 ([papers.html full publication list])
 
-7. Simon S. Du\*, Wei Hu\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*.  [https://arxiv.org/abs/2002.09434 "Few-Shot Learning via Learning the Representation, Provably"], /arxiv preprint/
+6. Simon S. Du\*, Wei Hu\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*.  [https://arxiv.org/abs/2002.09434 "Few-Shot Learning via Learning the Representation, Provably"], /arxiv preprint/
 
-6. *Qi Lei*, Jason D. Lee, Alexandros G. Dimakis, Constantinos Daskalakis. [https://arxiv.org/abs/1910.07030 "SGD Learns One-Layer Networks in WGANs"], /arxiv preprint/
+5. *Qi Lei*, Jason D. Lee, Alexandros G. Dimakis, Constantinos Daskalakis. [https://arxiv.org/abs/1910.07030 "SGD Learns One-Layer Networks in WGANs"], /ICML 2020 (to appear)/
 
-5. *Qi Lei*, Jiacheng Zhuo, Constantine Caramanis, Inderjit S Dhillon, Alexandros G Dimakis. [https://arxiv.org/abs/1906.02436 "Primal-Dual Block Frank-Wolfe"], / Proc. of Neural Information Processing Systems (NeurIPS) 2019/ ([PDBFW.pdf slides], [https://github.com/CarlsonZhuo/primal_dual_frank_wolfe code])
+4. *Qi Lei*, Jiacheng Zhuo, Constantine Caramanis, Inderjit S Dhillon, Alexandros G Dimakis. [https://arxiv.org/abs/1906.02436 "Primal-Dual Block Frank-Wolfe"], / Proc. of Neural Information Processing Systems (NeurIPS) 2019/ ([PDBFW.pdf slides], [https://github.com/CarlsonZhuo/primal_dual_frank_wolfe code])
 
-4. *Qi Lei*, Ajil Jalal, Inderjit S. Dhillon, Alexandros G. Dimakis. [https://arxiv.org/abs/1906.07437 "Inverting Deep Generative models, One layer at a time"], / Proc. of Neural Information Processing Systems (NeurIPS) 2019/ ([invert_GAN_poster.pdf poster], [https://github.com/cecilialeiqi/InvertGAN_LP code])
+3. *Qi Lei*, Ajil Jalal, Inderjit S. Dhillon, Alexandros G. Dimakis. [https://arxiv.org/abs/1906.07437 "Inverting Deep Generative models, One layer at a time"], / Proc. of Neural Information Processing Systems (NeurIPS) 2019/ ([invert_GAN_poster.pdf poster], [https://github.com/cecilialeiqi/InvertGAN_LP code])
 
-3. *Qi Lei*\*, Lingfei Wu\*, Pin-Yu Chen, Alexandros G. Dimakis, Inderjit S. Dhillon, Michael Witbrock. [https://arxiv.org/abs/1812.00151 "Discrete Adversarial Attacks and Submodular Optimization with Applications to Text Classification"], /Systems and Machine Learning (sysML). 2019/ [https://github.com/cecilialeiqi/adversarial_text (code], [discrete_attack.pdf slides)] 
+2. *Qi Lei*\*, Lingfei Wu\*, Pin-Yu Chen, Alexandros G. Dimakis, Inderjit S. Dhillon, Michael Witbrock. [https://arxiv.org/abs/1812.00151 "Discrete Adversarial Attacks and Submodular Optimization with Applications to Text Classification"], /Systems and Machine Learning (sysML). 2019/ [https://github.com/cecilialeiqi/adversarial_text (code], [discrete_attack.pdf slides)] 
 - Press coverage: [https://www.nature.com/articles/d41586-019-01510-1?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews&sf212595612=1 <Nature Story>] [https://venturebeat.com/2019/04/01/text-based-ai-models-are-vulnerable-to-paraphrasing-attacks-researchers-find/ <Vecturebeat>] [https://bdtechtalks.com/2019/04/02/ai-nlp-paraphrasing-adversarial-attacks/ <Tech Talks>] [https://www.jiqizhixin.com/articles/2019-03-27-10?from=synced&keyword=SysML%202019 <机器之心>]
 
-
-2. *Qi Lei*, Enxu Yan, Chao-yuan Wu, Pradeep Ravikumar, Inderjit Dhillon, [DGPDC.pdf "Doubly Greedy Primal-Dual Coordinate Methods for Sparse Empirical Risk Minimization"], /Proc. of International Conference of Machine Learning (ICML), 2017/ [https://github.com/a061105/Primal-Dual-ActiveCD (code)]
 
 1. Rashish Tandon, *Qi Lei*, Alexandros G. Dimakis, Nikos Karampatziakis, [https://arxiv.org/abs/1612.03301 "Gradient Coding: Avoiding Stragglers in Distributed Learning"], /Proc. of International Conference of Machine Learning (ICML), 2017/ [https://github.com/rashisht1/gradient_coding (code)]
 
