@@ -22,6 +22,10 @@ My research interests are *machine learning*, *deep learning* and *optimization*
 
 
 == News and Announcement
+
+[08/2020] New paper out:
+- [https://arxiv.org/abs/2008.01064 "Predicting What You Already Know Helps: Provable Self-Supervised Learning"]
+
 [06/2020] Our paper is accepted at ICML 2020: 
 - *Qi Lei*, Jason D. Lee, Alexandros G. Dimakis, Constantinos Daskalakis. [https://arxiv.org/abs/1910.07030 "SGD Learns One-Layer Networks in WGANs"] 
 
@@ -68,9 +72,11 @@ My research interests are *machine learning*, *deep learning* and *optimization*
 
 ([papers.html full publication list])
 
+7. Jason D. Lee\*, *Qi Lei*\*, Nikunj Saunshi\*, Jiacheng Zhuo\*. [https://arxiv.org/abs/2008.01064 "Predicting What You Already Know Helps: Provable Self-Supervised Learning"], /arxiv preprint/
+
 6. Simon S. Du\*, Wei Hu\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*.  [https://arxiv.org/abs/2002.09434 "Few-Shot Learning via Learning the Representation, Provably"], /arxiv preprint/
 
-5. *Qi Lei*, Jason D. Lee, Alexandros G. Dimakis, Constantinos Daskalakis. [https://arxiv.org/abs/1910.07030 "SGD Learns One-Layer Networks in WGANs"], /ICML 2020 (to appear)/
+5. *Qi Lei*, Jason D. Lee, Alexandros G. Dimakis, Constantinos Daskalakis. [https://arxiv.org/abs/1910.07030 "SGD Learns One-Layer Networks in WGANs"], /Proc. of International Conference of Machine Learning (ICML) 2020/
 
 4. *Qi Lei*, Jiacheng Zhuo, Constantine Caramanis, Inderjit S Dhillon, Alexandros G Dimakis. [https://arxiv.org/abs/1906.02436 "Primal-Dual Block Frank-Wolfe"], / Proc. of Neural Information Processing Systems (NeurIPS) 2019/ ([PDBFW.pdf slides], [https://github.com/CarlsonZhuo/primal_dual_frank_wolfe code])
 
