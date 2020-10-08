@@ -5,19 +5,21 @@
 
 
 == Preprints
-24. Jason D. Lee\*, *Qi Lei*\*, Nikunj Saunshi\*, Jiacheng Zhuo\*. [https://arxiv.org/abs/2008.01064 "Predicting What You Already Know Helps: Provable Self-Supervised Learning"], /arxiv preprint/
 
-23. Jay Whang, *Qi Lei*, Alexandros G. Dimakis. [https://arxiv.org/abs/2003.08089 "Compressed Sensing with Invertible Generative Models and Dependent Noise"], /arxiv preprint/
+25. Jason D. Lee\*, *Qi Lei*\*, Nikunj Saunshi\*, Jiacheng Zhuo\*. [https://arxiv.org/abs/2008.01064 "Predicting What You Already Know Helps: Provable Self-Supervised Learning"], /arxiv preprint/
 
-22. Lemeng Wu, Mao Ye, *Qi Lei*, Jason D. Lee, and Qiang Liu.  [https://arxiv.org/abs/2003.10392 "Steepest Descent Neural Architecture Optimization: Escaping Local Optimum with Signed Neural Splitting"], /arxiv preprint/
+24. Jay Whang, *Qi Lei*, Alexandros G. Dimakis. [https://arxiv.org/abs/2003.08089 "Compressed Sensing with Invertible Generative Models and Dependent Noise"], /arxiv preprint/
 
-21. Simon S. Du\*, Wei Hu\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*.  [https://arxiv.org/abs/2002.09434 "Few-Shot Learning via Learning the Representation, Provably"], /arxiv preprint/
+23. Lemeng Wu, Mao Ye, *Qi Lei*, Jason D. Lee, and Qiang Liu.  [https://arxiv.org/abs/2003.10392 "Steepest Descent Neural Architecture Optimization: Escaping Local Optimum with Signed Neural Splitting"], /arxiv preprint/
 
-20. Minhao Cheng, *Qi Lei*, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh. [https://arxiv.org/abs/2002.06789  "CAT: Customized Adversarial Training for Improved Robustness"], /arxiv preprint/
+22. Simon S. Du\*, Wei Hu\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*.  [https://arxiv.org/abs/2002.09434 "Few-Shot Learning via Learning the Representation, Provably"], /arxiv preprint/
 
-19. *Qi Lei*\*, Sai Ganesh Nagarajan\*, Ioannis Panageas\*, Xiao Wang\*. [https://arxiv.org/abs/2002.06768  "Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes"], /arxiv preprint/
+21. Minhao Cheng, *Qi Lei*, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh. [https://arxiv.org/abs/2002.06789  "CAT: Customized Adversarial Training for Improved Robustness"], /arxiv preprint/
+
+20. *Qi Lei*\*, Sai Ganesh Nagarajan\*, Ioannis Panageas\*, Xiao Wang\*. [https://arxiv.org/abs/2002.06768  "Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes"], /arxiv preprint/
 
 == Publications
+19. Xiao Wang, *Qi Lei*, Ioannis Panageas. "Fast Convergence of Langevin Dynamics on Manifold: Geodesics meet Log-Sobolev", /To appear in NeurIPS 2020/
 
 18. *Qi Lei*, Jason D. Lee, Alexandros G. Dimakis, Constantinos Daskalakis. [https://arxiv.org/abs/1910.07030 "SGD Learns One-Layer Networks in WGANs"], /Proc. of International Conference of Machine Learning (ICML) 2020/
 
@@ -65,10 +67,10 @@ Systems (NIPS), Dec. 2016/ ([https://github.com/cecilialeiqi/CPM code],[cpm_post
 
 == Patents
 
-[ "Method and System for General and Efficient Time Series Representation Learning via Dynamic Time Warping"]\n
+"Method and System for General and Efficient Time Series Representation Learning via Dynamic Time Warping" \n
 with J. Yi, R. Vaculin, W. Sun
 
-[ "Real-Time Cold Start Recommendation and Rationale within a Dialog System" ]\n
+"Real-Time Cold Start Recommendation and Rationale within a Dialog System" \n
 with J. Yi, R. Vaculin, M. Pietro
 
 
