@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.8)  31 OCT 2020 05:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.8)  31 OCT 2020 06:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -231,38 +231,38 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Excluding 'comment' comment. [2]
-Overfull \hbox (0.31204pt too wide) in paragraph at lines 288--291
+Excluding 'comment' comment. [2] [3]
+Overfull \hbox (0.31204pt too wide) in paragraph at lines 289--292
 \OT1/cmr/m/n/10 Minisymposium on Re-cent Progress in Coordinate-wise De-scent M
 eth-ods, SIAM
  []
 
 
-Overfull \hbox (3.81218pt too wide) in paragraph at lines 292--295
+Overfull \hbox (3.81218pt too wide) in paragraph at lines 293--296
 \OT1/cmr/m/n/10 Minisymposium on Re-cent Ad-vances in Non-neg-a-tive Ma-trix Fa
 c-tor-iza-tion, SIAM
  []
 
-[3]
-Overfull \hbox (1.45103pt too wide) in paragraph at lines 299--299
+
+Overfull \hbox (1.45103pt too wide) in paragraph at lines 300--300
 []\OT1/cmr/bx/n/10 PROGRAMMING  
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 306.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 307.
 [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 306.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 306.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 306.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 306.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 307.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 307.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 307.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 307.
  ) 
 Here is how much of TeX's memory you used:
- 4872 strings out of 481239
- 76717 string characters out of 5920377
+ 4875 strings out of 481239
+ 76738 string characters out of 5920377
  339911 words of memory out of 5000000
  20077 multiletter control sequences out of 15000+600000
  534453 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,8n,29p,240b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,8n,29p,258b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
@@ -271,10 +271,10 @@ t/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts
 public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on cv_2.pdf (4 pages, 123537 bytes).
+Output written on cv_2.pdf (4 pages, 124515 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
- 21 named destinations out of 1000 (max. 500000)
+ 86 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
+ 24 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

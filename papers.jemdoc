@@ -6,18 +6,18 @@
 
 == Preprints
 
-25. Jason D. Lee\*, *Qi Lei*\*, Nikunj Saunshi\*, Jiacheng Zhuo\*. [https://arxiv.org/abs/2008.01064 "Predicting What You Already Know Helps: Provable Self-Supervised Learning"], /arxiv preprint/
+25. Lemeng Wu, Mao Ye, *Qi Lei*, Jason D. Lee, and Qiang Liu.  [https://arxiv.org/abs/2003.10392 "Steepest Descent Neural Architecture Optimization: Escaping Local Optimum with Signed Neural Splitting"], /arxiv preprint/
 
-24. Lemeng Wu, Mao Ye, *Qi Lei*, Jason D. Lee, and Qiang Liu.  [https://arxiv.org/abs/2003.10392 "Steepest Descent Neural Architecture Optimization: Escaping Local Optimum with Signed Neural Splitting"], /arxiv preprint/
+24. Simon S. Du\*, Wei Hu\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*.  [https://arxiv.org/abs/2002.09434 "Few-Shot Learning via Learning the Representation, Provably"], /arxiv preprint/
 
-23. Simon S. Du\*, Wei Hu\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*.  [https://arxiv.org/abs/2002.09434 "Few-Shot Learning via Learning the Representation, Provably"], /arxiv preprint/
+23. Minhao Cheng, *Qi Lei*, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh. [https://arxiv.org/abs/2002.06789  "CAT: Customized Adversarial Training for Improved Robustness"], /arxiv preprint/
 
-22. Minhao Cheng, *Qi Lei*, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh. [https://arxiv.org/abs/2002.06789  "CAT: Customized Adversarial Training for Improved Robustness"], /arxiv preprint/
-
-21. *Qi Lei*\*, Sai Ganesh Nagarajan\*, Ioannis Panageas\*, Xiao Wang\*. [https://arxiv.org/abs/2002.06768  "Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes"], /arxiv preprint/
+22. *Qi Lei*\*, Sai Ganesh Nagarajan\*, Ioannis Panageas\*, Xiao Wang\*. [https://arxiv.org/abs/2002.06768  "Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes"], /arxiv preprint/
 
 == Publications
-20. Jay Whang, *Qi Lei*, Alexandros G. Dimakis. [https://arxiv.org/abs/2003.08089 "Compressed Sensing with Invertible Generative Models and Dependent Noise"], /To appear at NeurIPS Workshop on Deep Learning and Inverse Problems, 2020/
+21. Jason D. Lee\*, *Qi Lei*\*, Nikunj Saunshi\*, Jiacheng Zhuo\*. [https://arxiv.org/abs/2008.01064 "Predicting What You Already Know Helps: Provable Self-Supervised Learning"], /To appear at NeurIPS 2020 Workshop: Self-Supervised Learning - Theory and Practice/
+
+20. Jay Whang, *Qi Lei*, Alexandros G. Dimakis. [https://arxiv.org/abs/2003.08089 "Compressed Sensing with Invertible Generative Models and Dependent Noise"], /To appear at NeurIPS 2020 Workshop on Deep Learning and Inverse Problems/
 
 19. Xiao Wang, *Qi Lei*, Ioannis Panageas. "Fast Convergence of Langevin Dynamics on Manifold: Geodesics meet Log-Sobolev", /To appear at NeurIPS 2020/
 
