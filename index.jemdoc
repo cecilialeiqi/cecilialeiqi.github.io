@@ -22,9 +22,11 @@ My research interests are *machine learning*, *deep learning* and *optimization*
 
 
 == News and Announcement
-[11/2020] I'm invited to give a Young Researcher Spotlight Talk at the [https://sites.google.com/view/slowdnn/ "Seeking Low-dimensionality in Deep Learning"] workshop on my recent work of provable representation learning
+[12/2020] I'm invited to give a talk on [https://simons.berkeley.edu/talks/sgd-learns-one-layer-networks-wgans SGD learns one-layer network with WGANs] at [https://simons.berkeley.edu/workshops/hd-2020-3 Learning and Testing in High Dimensions]
 
-[10/2020] I'm invited to give a talk on provable self-supervised learning at [https://www.oneworldml.org/ One-World ML seminar] 
+[11/2020] I'm invited to give a Young Researcher Spotlight Talk at the [https://sites.google.com/view/slowdnn/ "Seeking Low-dimensionality in Deep Learning"] workshop on my recent work of [https://www.youtube.com/watch?v=SvddIPXjNDU&list=PL7P834wcUN3eSh7Nn4wzPBjEnme4Rls7n&index=15&ab_channel=SLowDNNWorkshop provable representation learning]
+
+[10/2020] I'm invited to give a talk on [https://www.youtube.com/watch?v=5A1iKkPv1Y0&feature=youtu.be&ab_channel=Oneworldtheoreticalmachinelearning provable self-supervised learning] at [https://www.oneworldml.org/ One-World ML seminar] 
 
 [10/2020] Our paper is accepted at NeurIPS 2020: 
 - Xiao Wang, *Qi Lei*, Ioannis Panageas.  "Fast Convergence of Langevin Dynamics on Manifold: Geodesics meet Log-Sobolev"
