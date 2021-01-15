@@ -22,6 +22,9 @@ My research interests are *machine learning*, *deep learning* and *optimization*
 
 
 == News and Announcement
+[01/2021] Our paper is accepted at ICLR 2021:
+- Simon S. Du\*, Wei Hu\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*. "Few-Shot Learning via Learning the Representation, Provably"
+
 [12/2020] I'm invited to give a talk on [https://simons.berkeley.edu/talks/sgd-learns-one-layer-networks-wgans SGD learns one-layer network with WGANs] at [https://simons.berkeley.edu/workshops/hd-2020-3 Learning and Testing in High Dimensions]
 
 [11/2020] I'm invited to give a Young Researcher Spotlight Talk at the [https://sites.google.com/view/slowdnn/ "Seeking Low-dimensionality in Deep Learning"] workshop on my recent work of [https://www.youtube.com/watch?v=SvddIPXjNDU&list=PL7P834wcUN3eSh7Nn4wzPBjEnme4Rls7n&index=15&ab_channel=SLowDNNWorkshop provable representation learning]
@@ -56,9 +59,9 @@ My research interests are *machine learning*, *deep learning* and *optimization*
 #- *Qi Lei*, Ajil Jalal, Inderjit S. Dhillon, Alexandros G. Dimakis. [https://arxiv.org/abs/1906.07437 "Inverting Deep Generative models, One layer at a time"]
 
 
-[11/2019] I am invited to give a talk on Deep Generative models and Inverse Problems at the mini-symposium "Machine Learning for Solving Partial Differential Equations and Inverse Problems" of the 2nd Annual Meeting of the [http://faculty.smu.edu/sxu/SIAMTXLA19/index.html SIAM Texas-Louisiana Section] in Dallas on Nov 2nd, 2019
+#[11/2019] I am invited to give a talk on Deep Generative models and Inverse Problems at the mini-symposium "Machine Learning for Solving Partial Differential Equations and Inverse Problems" of the 2nd Annual Meeting of the [http://faculty.smu.edu/sxu/SIAMTXLA19/index.html SIAM Texas-Louisiana Section] in Dallas on Nov 2nd, 2019
 
-[10/2019] I am going to attend the [https://publish.illinois.edu/rising-stars/ Rising Stars 2019] at UIUC (An Academic Career Workshop for Women in EECS) from Oct 29th to Nov 1st, 2019
+#[10/2019] I am going to attend the [https://publish.illinois.edu/rising-stars/ Rising Stars 2019] at UIUC (An Academic Career Workshop for Women in EECS) from Oct 29th to Nov 1st, 2019
 
 #[10/2019] New paper out: [https://arxiv.org/abs/1910.07703 "Communication-Efficient Asynchronous Stochastic Frank-Wolfe over Nuclear-norm Balls"]
 
