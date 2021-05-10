@@ -22,6 +22,18 @@ My research interests are *machine learning*, *deep learning* and *optimization*
 
 
 == News and Announcement
+[05/2021] Three papers are accepted at ICML 2021:
+- *Qi Lei*, Wei Hu, Jason D. Lee. ``Near-Optimal Linear Regression under Distribution Shift"
+- Tianle Cai\*, Ruiqi Gao\*, Jason D Lee\*, *Qi Lei*\*.  [https://arxiv.org/abs/2102.11203 ``A Theory of Label Propagation for Subpopulation Shift"]
+- Jay Whang, *Qi Lei*, Alexandros G. Dimakis. ``Solving Inverse Problems with a Flow-based Noise Model"
+
+[05/2021] I'm invited to give a talk on [https://cms.caltech.edu/events/90169 Provable Representation Learning] at [https://eas.caltech.edu/young_investigators Caltech Young Investigators Lecture]
+
+[05/2021] New paper out:
+[https://arxiv.org/abs/2105.02221  How Fine-Tuning Allows for Effective Meta-Learning]
+
+[03/2021] My PhD thesis won this year's [https://www.oden.utexas.edu/about/news/qi-lei-wins-Outstanding-Dissertation-Award/ Oden Institute Outstanding Dissertation Award] 
+
 [01/2021] Our paper is accepted at AISTATS 2021:
 - *Qi Lei*\*, Sai Ganesh Nagarajan\*, Ioannis Panageas\*, Xiao Wang\*. "Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes"
 
@@ -49,13 +61,13 @@ My research interests are *machine learning*, *deep learning* and *optimization*
 #- [https://arxiv.org/abs/2003.10392 "Steepest Descent Neural Architecture Optimization: Escaping Local Optimum with Signed Neural Splitting"]
 #- [https://arxiv.org/abs/2003.08089 "Compressed Sensing with Invertible Generative Models and Dependent Noise"]
 
-[02/2020] New papers out:
-- [https://arxiv.org/abs/2002.09434 "Few-Shot Learning via Learning the Representation, Provably"]
-- [https://arxiv.org/abs/2002.06789  "CAT: Customized Adversarial Training for Improved Robustness"]
+#[02/2020] New papers out:
+#- [https://arxiv.org/abs/2002.09434 "Few-Shot Learning via Learning the Representation, Provably"]
+#- [https://arxiv.org/abs/2002.06789  "CAT: Customized Adversarial Training for Improved Robustness"]
 #- [https://arxiv.org/abs/2002.06768  "Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes"]
 
-[01/2020] Our paper is accepted to AISTATS 2020:
-- Jiacheng Zhuo, *Qi Lei*, Alexandros G. Dimakis, Constantine Caramanis. [https://arxiv.org/abs/1910.07703 "Communication-Efficient Asynchronous Stochastic Frank-Wolfe over Nuclear-norm Ball"]
+#[01/2020] Our paper is accepted to AISTATS 2020:
+#- Jiacheng Zhuo, *Qi Lei*, Alexandros G. Dimakis, Constantine Caramanis. [https://arxiv.org/abs/1910.07703 "Communication-Efficient Asynchronous Stochastic Frank-Wolfe over Nuclear-norm Ball"]
 
 #[12/2019] Attending [https://neurips.cc/ NeurIPS 2019] to present our following papers:
 #- *Qi Lei*, Jiacheng Zhuo, Constantine Caramanis, Inderjit S Dhillon, Alexandros G Dimakis. [https://arxiv.org/abs/1906.02436 "Primal-Dual Block Generalized Frank-Wolfe"]
