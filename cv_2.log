@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.3)  10 MAY 2021 15:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.3)  5 JUL 2021 12:51
 entering extended mode
 **./cv_2.tex
 (cv_2.tex
@@ -255,28 +255,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/qilei/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] Excludi
-ng 'comment' comment.
-Overfull \hbox (6.67099pt too wide) in paragraph at lines 270--272
-[]\OT1/cmr/m/sl/10 Conference Re-viewer: \OT1/cmr/m/n/10 ML-Sys (Meta-reviewer'
-21, 20), COLT (21), STOC (20), NeurIPS
+ng 'comment' comment. [3]
+Overfull \hbox (26.55798pt too wide) in paragraph at lines 272--274
+\OT1/cmr/m/n/10 NeurIPS (16,17,18,19,20), ICML (18,19,20,21), ICLR (18,19,20,21
+), AIS-TATS (18,19,20,21),
  []
 
-[3]
-Overfull \hbox (4.20102pt too wide) in paragraph at lines 286--286
+
+Overfull \hbox (4.20102pt too wide) in paragraph at lines 288--288
 []\OT1/cmr/bx/n/10 PRESENTATIONS  
  []
 
 [4]
-Overfull \hbox (1.45103pt too wide) in paragraph at lines 352--352
+Overfull \hbox (1.45103pt too wide) in paragraph at lines 355--355
 []\OT1/cmr/bx/n/10 PROGRAMMING  
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 359.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 362.
 [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 359.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 359.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 359.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 359.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 362.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 362.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 362.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 362.
  ) 
 Here is how much of TeX's memory you used:
  4900 strings out of 481624
@@ -296,7 +296,7 @@ ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/
 Users/qilei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 ti10.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmtt10.pfb>
-Output written on cv_2.pdf (5 pages, 134379 bytes).
+Output written on cv_2.pdf (5 pages, 134451 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  42 named destinations out of 1000 (max. 500000)
