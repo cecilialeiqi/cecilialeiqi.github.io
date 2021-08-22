@@ -17,11 +17,18 @@ University of Texas at Austin, advised by [http://users.ece.utexas.edu/~dimakis/
 I was also a member of [http://bigdata.ices.utexas.edu/ Center for Big Data Analytics] and [https://wncg.org/ Wireless Networking & Communications Group]. I visited [https://www.ias.edu/ IAS] for the [http://www.math.ias.edu/theoretical_machine_learning Theoretical Machine Learning program] from September 2019 to July 2020. Prior to that, I was a Research Fellow at the Simons Institute for the Theory of Computing at UC Berkeley for the program on Foundations of Deep Learning.
 
 My research interests are *machine learning*, *deep learning* and *optimization*. Specifically, I'm interested in developing provably efficient and robust algorithms for some fundamental machine learning problems. 
+
+*I will be on the 2021-22 job market.*
  
 ([cv_2.pdf Curriculum Vitae], [https://github.com/cecilialeiqi/ Github], [https://scholar.google.com/citations?user=kGOgaowAAAAJ&hl=en Google Scholar])
 
 
 == News and Announcement
+[07/2921] New papers out:
+- [https://arxiv.org/abs/2107.04518 Optimal Gradient-based Algorithms for Non-concave Bandit Optimization]
+- [https://arxiv.org/abs/2107.06466 Going Beyond Linear RL: Sample Efficient Neural Function Approximation]
+- [https://arxiv.org/abs/2107.02377 A Short Note on the Relationship of Information Gain and Eluder Dimension]
+
 [05/2021] Three papers are accepted at ICML 2021:
 - *Qi Lei*, Wei Hu, Jason D. Lee. [https://arxiv.org/abs/2106.12108 ``Near-Optimal Linear Regression under Distribution Shift"]
 - Tianle Cai\*, Ruiqi Gao\*, Jason D Lee\*, *Qi Lei*\*.  [https://arxiv.org/abs/2102.11203 ``A Theory of Label Propagation for Subpopulation Shift"]
@@ -54,8 +61,8 @@ My research interests are *machine learning*, *deep learning* and *optimization*
 [08/2020] New paper out:
 - [https://arxiv.org/abs/2008.01064 "Predicting What You Already Know Helps: Provable Self-Supervised Learning"]
 
-[06/2020] Our paper is accepted at ICML 2020: 
-- *Qi Lei*, Jason D. Lee, Alexandros G. Dimakis, Constantinos Daskalakis. [https://arxiv.org/abs/1910.07030 "SGD Learns One-Layer Networks in WGANs"] 
+#[06/2020] Our paper is accepted at ICML 2020: 
+#- *Qi Lei*, Jason D. Lee, Alexandros G. Dimakis, Constantinos Daskalakis. [https://arxiv.org/abs/1910.07030 "SGD Learns One-Layer Networks in WGANs"] 
 
 #[03/2020] New papers out:
 #- [https://arxiv.org/abs/2003.10392 "Steepest Descent Neural Architecture Optimization: Escaping Local Optimum with Signed Neural Splitting"]
@@ -100,15 +107,14 @@ My research interests are *machine learning*, *deep learning* and *optimization*
 
 ([papers.html full publication list])
 
-7. Jason D. Lee\*, *Qi Lei*\*, Nikunj Saunshi\*, Jiacheng Zhuo\*. [https://arxiv.org/abs/2008.01064 "Predicting What You Already Know Helps: Provable Self-Supervised Learning"], /arxiv preprint/
+6. Baihe Huang\*, Kaixuan Huang\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*, Runzhe Wang\*, and Jiaqi Yang\*.
+[https://arxiv.org/abs/2107.04518 "Optimal Gradient-based Algorithms for Non-concave Bandit Optimization"], /arxiv preprint/
 
-6. Simon S. Du\*, Wei Hu\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*.  [https://arxiv.org/abs/2002.09434 "Few-Shot Learning via Learning the Representation, Provably"], /arxiv preprint/
+5. Jason D. Lee\*, *Qi Lei*\*, Nikunj Saunshi\*, Jiacheng Zhuo\*. [https://arxiv.org/abs/2008.01064 "Predicting What You Already Know Helps: Provable Self-Supervised Learning"], /arxiv preprint/
 
-5. *Qi Lei*, Jason D. Lee, Alexandros G. Dimakis, Constantinos Daskalakis. [https://arxiv.org/abs/1910.07030 "SGD Learns One-Layer Networks in WGANs"], /Proc. of International Conference of Machine Learning (ICML) 2020/
+4. Simon S. Du\*, Wei Hu\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*.  [https://arxiv.org/abs/2002.09434 "Few-Shot Learning via Learning the Representation, Provably"], /The International Conference on Learning Representations (ICLR) 2021/
 
-4. *Qi Lei*, Jiacheng Zhuo, Constantine Caramanis, Inderjit S Dhillon, Alexandros G Dimakis. [https://arxiv.org/abs/1906.02436 "Primal-Dual Block Frank-Wolfe"], / Proc. of Neural Information Processing Systems (NeurIPS) 2019/ ([PDBFW.pdf slides], [https://github.com/CarlsonZhuo/primal_dual_frank_wolfe code])
-
-3. *Qi Lei*, Ajil Jalal, Inderjit S. Dhillon, Alexandros G. Dimakis. [https://arxiv.org/abs/1906.07437 "Inverting Deep Generative models, One layer at a time"], / Proc. of Neural Information Processing Systems (NeurIPS) 2019/ ([invert_GAN_poster.pdf poster], [https://github.com/cecilialeiqi/InvertGAN_LP code])
+3. *Qi Lei*, Jason D. Lee, Alexandros G. Dimakis, Constantinos Daskalakis. [https://arxiv.org/abs/1910.07030 "SGD Learns One-Layer Networks in WGANs"], /Proc. of International Conference of Machine Learning (ICML) 2020/
 
 2. *Qi Lei*\*, Lingfei Wu\*, Pin-Yu Chen, Alexandros G. Dimakis, Inderjit S. Dhillon, Michael Witbrock. [https://arxiv.org/abs/1812.00151 "Discrete Adversarial Attacks and Submodular Optimization with Applications to Text Classification"], /Systems and Machine Learning (sysML). 2019/ [https://github.com/cecilialeiqi/adversarial_text (code], [discrete_attack.pdf slides)] 
 - Press coverage: [https://www.nature.com/articles/d41586-019-01510-1?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews&sf212595612=1 <Nature Story>] [https://venturebeat.com/2019/04/01/text-based-ai-models-are-vulnerable-to-paraphrasing-attacks-researchers-find/ <Vecturebeat>] [https://bdtechtalks.com/2019/04/02/ai-nlp-paraphrasing-adversarial-attacks/ <Tech Talks>] [https://www.jiqizhixin.com/articles/2019-03-27-10?from=synced&keyword=SysML%202019 <机器之心>]
