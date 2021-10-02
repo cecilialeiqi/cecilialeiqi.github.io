@@ -6,26 +6,34 @@
 
 == Preprints
 
-28. Kurtland Chua, *Qi Lei*, Jason D. Lee. [https://arxiv.org/abs/2105.02221 "How Fine-Tuning Allows for Effective Meta-Learning"], /arxiv preprint/
 
-27. Lemeng Wu, Mao Ye, *Qi Lei*, Jason D. Lee, and Qiang Liu.  [https://arxiv.org/abs/2003.10392 "Steepest Descent Neural Architecture Optimization: Escaping Local Optimum with Signed Neural Splitting"], /arxiv preprint/
+30. Lemeng Wu, Mao Ye, *Qi Lei*, Jason D. Lee, and Qiang Liu.  [https://arxiv.org/abs/2003.10392 "Steepest Descent Neural Architecture Optimization: Escaping Local Optimum with Signed Neural Splitting"], /arxiv preprint/
 
-26. Minhao Cheng, *Qi Lei*, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh. [https://arxiv.org/abs/2002.06789  "CAT: Customized Adversarial Training for Improved Robustness"], /arxiv preprint/
+29. Minhao Cheng, *Qi Lei*, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh. [https://arxiv.org/abs/2002.06789  "CAT: Customized Adversarial Training for Improved Robustness"], /arxiv preprint/
 
 
 == Publications
 
-25. Tianle Cai\*, Ruiqi Gao\*, Jason D Lee\*, *Qi Lei*\*. [https://arxiv.org/abs/2102.11203 ``A Theory of Label Propagation for Subpopulation Shift"], /To appear at ICML 2021/
 
-24. *Qi Lei*, Wei Hu, Jason D. Lee. [https://arxiv.org/abs/2106.12108 ``Near-Optimal Linear Regression under Distribution Shift"], /To appear at ICML 2021/
+28. Baihe Huang\*, Kaixuan Huang\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*, Runzhe Wang\*, Jiaqi Yang\* [https://arxiv.org/abs/2107.04518 ``Optimal Gradient-based Algorithms for Non-concave Bandit Optimization"], /to appear to NeurIPS 2021/
 
-23. Jay Whang, *Qi Lei*, Alexandros G. Dimakis. [https://arxiv.org/abs/2003.08089 "Solving Inverse Problems with a Flow-based Noise Model"], /To appear at ICML 2021/
+27. Baihe Huang\*, Kaixuan Huang\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*, Runzhe Wang\*, Jiaqi Yang\* [https://arxiv.org/abs/2107.06466 ``Going Beyond Linear RL: Sample Efficient Neural Function Approximation], /to appear to NeurIPS 2021/
 
-22. *Qi Lei*\*, Sai Ganesh Nagarajan\*, Ioannis Panageas\*, Xiao Wang\*. [https://arxiv.org/abs/2002.06768  "Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes"], /AISTATS 2021/
+26. Kurtland Chua, *Qi Lei*, Jason D. Lee, [https://arxiv.org/abs/2105.02221 ``How fine-tuning allows for effective meta-learning"], /to appear at NeurIPS 2021/
 
-21. Simon S. Du\*, Wei Hu\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*.  [https://arxiv.org/abs/2002.09434 "Few-Shot Learning via Learning the Representation, Provably"], /ICLR 2021/
+25. Jason D Lee\*, *Qi Lei*\*, Nikunj Saunshi\*, Jiacheng Zhuo\*, [https://arxiv.org/abs/2008.01064 ``Predicting What You Already Know Helps: Provable Self-Supervised Learning"], /to appear at NeurIPS 2021/
 
-20. Jason D. Lee\*, *Qi Lei*\*, Nikunj Saunshi\*, Jiacheng Zhuo\*. [https://arxiv.org/abs/2008.01064 "Predicting What You Already Know Helps: Provable Self-Supervised Learning"], /NeurIPS 2020 Workshop: Self-Supervised Learning - Theory and Practice/
+
+24. Tianle Cai\*, Ruiqi Gao\*, Jason D Lee\*, *Qi Lei*\*. [https://arxiv.org/abs/2102.11203 ``A Theory of Label Propagation for Subpopulation Shift"], /ICML 2021/
+
+23. *Qi Lei*, Wei Hu, Jason D. Lee. [https://arxiv.org/abs/2106.12108 ``Near-Optimal Linear Regression under Distribution Shift"], /ICML 2021/
+
+22. Jay Whang, *Qi Lei*, Alexandros G. Dimakis. [https://arxiv.org/abs/2003.08089 "Solving Inverse Problems with a Flow-based Noise Model"], /ICML 2021/
+
+21. *Qi Lei*\*, Sai Ganesh Nagarajan\*, Ioannis Panageas\*, Xiao Wang\*. [https://arxiv.org/abs/2002.06768  "Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes"], /AISTATS 2021/
+
+20. Simon S. Du\*, Wei Hu\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*.  [https://arxiv.org/abs/2002.09434 "Few-Shot Learning via Learning the Representation, Provably"], /ICLR 2021/
+
 
 19. Xiao Wang, *Qi Lei*, Ioannis Panageas. "Fast Convergence of Langevin Dynamics on Manifold: Geodesics meet Log-Sobolev", /Proc. of Neural Information Processing Systems (NeurIPS), 2020/
 

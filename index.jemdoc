@@ -12,11 +12,11 @@ Website: [cecilialeiqi.github.io http:\/\/cecilialeiqi.github.io]
 
 ~~
 
-I am a postdoc research associate at ECE, Princeton University. I am fortunate to have Prof. [http://jasondlee88.github.io Jason Lee] as my research mentor. I received my Ph.D. from [https://www.oden.utexas.edu/ Oden Institute for Computational Engineering and Sciences], 
+I am an associate research scholar at ECE, Princeton University. I am fortunate to have Prof. [http://jasondlee88.github.io Jason Lee] as my research mentor. I received my Ph.D. from [https://www.oden.utexas.edu/ Oden Institute for Computational Engineering and Sciences], 
 University of Texas at Austin, advised by [http://users.ece.utexas.edu/~dimakis/index.html Alexandros G. Dimakis] and [http://www.cs.utexas.edu/~inderjit/ Inderjit S. Dhillon]. 
 I was also a member of [http://bigdata.ices.utexas.edu/ Center for Big Data Analytics] and [https://wncg.org/ Wireless Networking & Communications Group]. I visited [https://www.ias.edu/ IAS] for the [http://www.math.ias.edu/theoretical_machine_learning Theoretical Machine Learning program] from September 2019 to July 2020. Prior to that, I was a Research Fellow at the Simons Institute for the Theory of Computing at UC Berkeley for the program on Foundations of Deep Learning.
 
-My research interests are *machine learning*, *deep learning* and *optimization*. Specifically, I'm interested in developing provably efficient and robust algorithms for some fundamental machine learning problems. 
+My research interests are *machine learning*, *deep learning* and *optimization*. Specifically, I'm interested in developing sample- and computationally efficient algorithms for some fundamental machine learning problems. 
 
 *I will be on the 2021-22 job market.*
  
@@ -24,6 +24,17 @@ My research interests are *machine learning*, *deep learning* and *optimization*
 
 
 == News and Announcement
+
+
+[10/2021] I'm invited to give a talk on [https://simons.berkeley.edu/talks/optimal-gradient-based-algorithms-non-concave-bandit-optimization non-concave bandit optimization] at [https://simons.berkeley.edu/workshops/schedule/16590 the Sampling Algorithms and Geometries on Probability Distributions workshop] at Simons Institute
+
+[09/2021] Four papers accepted at NeurIPS 2021:
+- Baihe Huang\*, Kaixuan Huang\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*, Runzhe Wang\*, Jiaqi Yang\* [https://arxiv.org/abs/2107.04518 ``Optimal Gradient-based Algorithms for Non-concave Bandit Optimization"]
+- Baihe Huang\*, Kaixuan Huang\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*, Runzhe Wang\*, Jiaqi Yang\* [https://arxiv.org/abs/2107.06466 ``Going Beyond Linear RL: Sample Efficient Neural Function Approximation] 
+- Kurtland Chua, *Qi Lei*, Jason D. Lee, [https://arxiv.org/abs/2105.02221 ``How fine-tuning allows for effective meta-learning"]
+- Jason D Lee\*, *Qi Lei*\*, Nikunj Saunshi\*, Jiacheng Zhuo\*, [https://arxiv.org/abs/2008.01064 ``Predicting What You Already Know Helps: Provable Self-Supervised Learning"]
+
+
 [07/2021] New papers out:
 - [https://arxiv.org/abs/2107.04518 Optimal Gradient-based Algorithms for Non-concave Bandit Optimization]
 - [https://arxiv.org/abs/2107.06466 Going Beyond Linear RL: Sample Efficient Neural Function Approximation]
@@ -56,10 +67,10 @@ My research interests are *machine learning*, *deep learning* and *optimization*
 [10/2020] Our paper is accepted at NeurIPS 2020: 
 - Xiao Wang, *Qi Lei*, Ioannis Panageas.  "Fast Convergence of Langevin Dynamics on Manifold: Geodesics meet Log-Sobolev"
 
-[09/2020] I am selected as a 2020 Computing Innovation Fellow. Thank you CRA! 
+#[09/2020] I am selected as a 2020 Computing Innovation Fellow. Thank you CRA! 
 
-[08/2020] New paper out:
-- [https://arxiv.org/abs/2008.01064 "Predicting What You Already Know Helps: Provable Self-Supervised Learning"]
+#[08/2020] New paper out:
+#- [https://arxiv.org/abs/2008.01064 "Predicting What You Already Know Helps: Provable Self-Supervised Learning"]
 
 #[06/2020] Our paper is accepted at ICML 2020: 
 #- *Qi Lei*, Jason D. Lee, Alexandros G. Dimakis, Constantinos Daskalakis. [https://arxiv.org/abs/1910.07030 "SGD Learns One-Layer Networks in WGANs"] 
@@ -108,9 +119,9 @@ My research interests are *machine learning*, *deep learning* and *optimization*
 ([papers.html full publication list])
 
 6. Baihe Huang\*, Kaixuan Huang\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*, Runzhe Wang\*, and Jiaqi Yang\*.
-[https://arxiv.org/abs/2107.04518 "Optimal Gradient-based Algorithms for Non-concave Bandit Optimization"], /arxiv preprint/
+[https://arxiv.org/abs/2107.04518 "Optimal Gradient-based Algorithms for Non-concave Bandit Optimization"], to appear at NeurIPS 2021
 
-5. Jason D. Lee\*, *Qi Lei*\*, Nikunj Saunshi\*, Jiacheng Zhuo\*. [https://arxiv.org/abs/2008.01064 "Predicting What You Already Know Helps: Provable Self-Supervised Learning"], /arxiv preprint/
+5. Jason D. Lee\*, *Qi Lei*\*, Nikunj Saunshi\*, Jiacheng Zhuo\*. [https://arxiv.org/abs/2008.01064 "Predicting What You Already Know Helps: Provable Self-Supervised Learning"], to appear at NeurIPS 2021
 
 4. Simon S. Du\*, Wei Hu\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*.  [https://arxiv.org/abs/2002.09434 "Few-Shot Learning via Learning the Representation, Provably"], /The International Conference on Learning Representations (ICLR) 2021/
 
