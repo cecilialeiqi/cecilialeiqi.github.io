@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.3)  27 SEP 2021 22:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.3)  28 SEP 2021 15:18
 entering extended mode
 **./cv_2.tex
 (cv_2.tex
@@ -252,48 +252,81 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 42.
- [1
+ Excluding 'comment' comment.
+Overfull \hbox (3.81094pt too wide) in paragraph at lines 133--135
+[]\OT1/cmr/m/n/10 The Na-tional Ini-tia-tive for Mod-el-ing and Sim-u-la-tion R
+e-search Fel-low-ship (\TS1/cmr/m/n/10 $\OT1/cmr/m/n/10 225k) 
+ []
 
-{C:/Users/qilei/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] Exc
-luding 'comment' comment.
-Overfull \hbox (39.3358pt too wide) in paragraph at lines 324--326
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 163.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 163.
+[1
+
+{C:/Users/qilei/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+[3] Excluding 'comment' comment.
+Overfull \hbox (39.3358pt too wide) in paragraph at lines 361--363
 \OT1/cmr/m/n/10 NeurIPS (16,17,18,19,20,21), ICML (18,19,20,21), ICLR (18,19,20
 ,21), AIS-TATS (18,19,20,21),
  []
 
 [4]
-Overfull \hbox (1.45103pt too wide) in paragraph at lines 405--405
-[]\OT1/cmr/bx/n/10 PROGRAMMING  
+Overfull \hbox (1.61763pt too wide) in paragraph at lines 392--393
+[]\OT1/cmr/m/n/10 Young Re-searcher Spot-light Talk at ``Seek-ing Low-dimension
+ality in Deep Learn-
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 412.
+
+Overfull \hbox (7.61765pt too wide) in paragraph at lines 414--415
+[]\OT1/cmr/m/n/10 The 28th In-ter-na-tional Joint Con-fer-ence on Ar-ti-fi-cial
+ In-tel-li-gence (IJ-CAI), Macao,
+ []
+
+
+Overfull \hbox (0.31204pt too wide) in paragraph at lines 427--428
+[]\OT1/cmr/m/n/10 Minisymposium on Re-cent Progress in Coordinate-wise De-scent
+ Meth-ods, SIAM
+ []
+
+
+Overfull \hbox (3.81218pt too wide) in paragraph at lines 433--435
+[]\OT1/cmr/m/n/10 Minisymposium on Re-cent Ad-vances in Non-neg-a-tive Ma-trix 
+Fac-tor-iza-tion, SIAM
+ []
+
 [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 412.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 412.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 412.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 412.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 448.
+ [6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 448.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 448.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 448.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 448.
  ) 
 Here is how much of TeX's memory you used:
- 4909 strings out of 481624
- 79021 string characters out of 2914869
+ 4917 strings out of 481624
+ 79121 string characters out of 2914869
  336636 words of memory out of 3000000
- 19995 multiletter control sequences out of 15000+200000
- 534453 words of font info for 31 fonts, out of 3000000 for 9000
+ 20004 multiletter control sequences out of 15000+200000
+ 536585 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,8n,29p,294b,444s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,8n,29p,294b,456s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\qilei\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcrm1000.pk><C:/Users/qilei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmbx10.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/qilei/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/qilei/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/qilei/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/
-Users/qilei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-ti10.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmtt10.pfb>
-Output written on cv_2.pdf (5 pages, 137944 bytes).
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/qilei/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/qilei/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/U
+sers/qilei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+10.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsl10.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmsy8.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/qilei/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on cv_2.pdf (6 pages, 164986 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
+ 130 PDF objects out of 1000 (max. 8388607)
+ 43 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
