@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.3)  28 SEP 2021 15:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.3)  28 OCT 2021 18:13
 entering extended mode
 **./cv_2.tex
 (cv_2.tex
@@ -253,64 +253,64 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 42.
  Excluding 'comment' comment.
-Overfull \hbox (3.81094pt too wide) in paragraph at lines 133--135
+Overfull \hbox (3.81094pt too wide) in paragraph at lines 136--138
 []\OT1/cmr/m/n/10 The Na-tional Ini-tia-tive for Mod-el-ing and Sim-u-la-tion R
 e-search Fel-low-ship (\TS1/cmr/m/n/10 $\OT1/cmr/m/n/10 225k) 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 163.
+(Font)              <8> on input line 176.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 163.
+(Font)              <6> on input line 176.
 [1
 
 {C:/Users/qilei/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-[3] Excluding 'comment' comment.
-Overfull \hbox (39.3358pt too wide) in paragraph at lines 361--363
-\OT1/cmr/m/n/10 NeurIPS (16,17,18,19,20,21), ICML (18,19,20,21), ICLR (18,19,20
-,21), AIS-TATS (18,19,20,21),
+[3]
+Overfull \hbox (28.46129pt too wide) in paragraph at lines 286--287
+[]\OT1/cmr/m/n/10 Kurtland Chua, \OT1/cmr/bx/n/10 Qi Lei\OT1/cmr/m/n/10 , Ja-so
+n D Lee. ``Prov-able Hierarchy-Based Meta-Reinforcement
  []
 
-[4]
-Overfull \hbox (1.61763pt too wide) in paragraph at lines 392--393
+Excluding 'comment' comment. [4]
+Overfull \hbox (1.61763pt too wide) in paragraph at lines 411--412
 []\OT1/cmr/m/n/10 Young Re-searcher Spot-light Talk at ``Seek-ing Low-dimension
 ality in Deep Learn-
  []
 
-
-Overfull \hbox (7.61765pt too wide) in paragraph at lines 414--415
+[5]
+Overfull \hbox (7.61765pt too wide) in paragraph at lines 438--439
 []\OT1/cmr/m/n/10 The 28th In-ter-na-tional Joint Con-fer-ence on Ar-ti-fi-cial
  In-tel-li-gence (IJ-CAI), Macao,
  []
 
 
-Overfull \hbox (0.31204pt too wide) in paragraph at lines 427--428
+Overfull \hbox (0.31204pt too wide) in paragraph at lines 452--453
 []\OT1/cmr/m/n/10 Minisymposium on Re-cent Progress in Coordinate-wise De-scent
  Meth-ods, SIAM
  []
 
 
-Overfull \hbox (3.81218pt too wide) in paragraph at lines 433--435
+Overfull \hbox (3.81218pt too wide) in paragraph at lines 458--460
 []\OT1/cmr/m/n/10 Minisymposium on Re-cent Ad-vances in Non-neg-a-tive Ma-trix 
 Fac-tor-iza-tion, SIAM
  []
 
-[5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 448.
+Excluding 'comment' comment.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 474.
  [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 448.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 448.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 448.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 448.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 474.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 474.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 474.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 474.
  ) 
 Here is how much of TeX's memory you used:
- 4917 strings out of 481624
- 79121 string characters out of 2914869
+ 4919 strings out of 481624
+ 79135 string characters out of 2914869
  336636 words of memory out of 3000000
  20004 multiletter control sequences out of 15000+200000
  536585 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,8n,29p,294b,456s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,8n,29p,299b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\qilei\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcrm1000.pk><C:/Users/qilei/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmbx10.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX 2.9/font
@@ -324,9 +324,9 @@ fonts/cm/cmsl10.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmsy8.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/qilei/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv_2.pdf (6 pages, 164986 bytes).
+Output written on cv_2.pdf (6 pages, 165712 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
+ 133 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
