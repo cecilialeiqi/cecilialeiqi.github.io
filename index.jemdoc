@@ -24,7 +24,11 @@ My research interests are *machine learning*, *deep learning* and *optimization*
 
 
 == News and Announcement
+[11/2021] Invited talk in the [https://ellis.ist.ac.at/ ELLIS talk series] on [https://talks-calendar.app.ist.ac.at/events/3329 ``Provable representation learning"]
 
+[10/2021] I'm honored to be selected as a rising star in Machine Learning at University Maryland
+
+[10/2021] I'm honored to be selected as a rising star in EECS at MIT
 
 [10/2021] I'm invited to give a talk on [https://simons.berkeley.edu/talks/optimal-gradient-based-algorithms-non-concave-bandit-optimization non-concave bandit optimization] at [https://simons.berkeley.edu/workshops/schedule/16590 the Sampling Algorithms and Geometries on Probability Distributions workshop] at Simons Institute
 
@@ -62,9 +66,9 @@ My research interests are *machine learning*, *deep learning* and *optimization*
 
 [11/2020] I'm invited to give a Young Researcher Spotlight Talk at the [https://sites.google.com/view/slowdnn/ "Seeking Low-dimensionality in Deep Learning"] workshop on my recent work of [https://www.youtube.com/watch?v=SvddIPXjNDU&list=PL7P834wcUN3eSh7Nn4wzPBjEnme4Rls7n&index=15&ab_channel=SLowDNNWorkshop provable representation learning]
 
-[10/2020] I'm invited to give a talk on [https://www.youtube.com/watch?v=5A1iKkPv1Y0&feature=youtu.be&ab_channel=Oneworldtheoreticalmachinelearning provable self-supervised learning] at [https://www.oneworldml.org/ One-World ML seminar] 
+#[10/2020] I'm invited to give a talk on [https://www.youtube.com/watch?v=5A1iKkPv1Y0&feature=youtu.be&ab_channel=Oneworldtheoreticalmachinelearning provable self-supervised learning] at [https://www.oneworldml.org/ One-World ML seminar] 
 
-[10/2020] Our paper is accepted at NeurIPS 2020: 
+#[10/2020] Our paper is accepted at NeurIPS 2020: 
 - Xiao Wang, *Qi Lei*, Ioannis Panageas.  "Fast Convergence of Langevin Dynamics on Manifold: Geodesics meet Log-Sobolev"
 
 #[09/2020] I am selected as a 2020 Computing Innovation Fellow. Thank you CRA! 
