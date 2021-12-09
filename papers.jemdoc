@@ -4,12 +4,7 @@
 = Publication List
 
 
-== Preprints
 
-
-30. Lemeng Wu, Mao Ye, *Qi Lei*, Jason D. Lee, and Qiang Liu.  [https://arxiv.org/abs/2003.10392 "Steepest Descent Neural Architecture Optimization: Escaping Local Optimum with Signed Neural Splitting"], /arxiv preprint/
-
-29. Minhao Cheng, *Qi Lei*, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh. [https://arxiv.org/abs/2002.06789  "CAT: Customized Adversarial Training for Improved Robustness"], /arxiv preprint/
 
 
 == Publications
@@ -80,6 +75,22 @@ Systems (NIPS), Dec. 2016/ ([https://github.com/cecilialeiqi/CPM code],[cpm_post
 2. Jiazhou Chen, *Qi Lei*, Yongwei Miao, Qunsheng Peng, [vectorization.pdf "Vectorization of Line Drawing Image based on Junction Analysis"], /Science China Information Sciences, 2014:1-14/ [vectorization/vector.zip (code)]
 
 1. Jiazhou Chen, *Qi Lei*, Fan Zhong, Qunsheng Peng, [imagePro.pdf "Interactive Tensor Field Design Based on Line Singularities"], /Proceedings of the 13th International CAD\/Graphics, 2013/ [imagePro/imagePro.zip (code)]
+
+
+== Preprints
+
+5. Tianci Liu, Quan Zhang, *Qi Lei*, [https://openreview.net/forum?id=aOnjg9Z2vIF "PANOM: Automatic Hyper-parameter Tuning for Inverse Problems"], NeurIPS 2021 Workshop on Deep Learning and Inverse Problems
+
+4. Kaixuan Huang\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*, [https://arxiv.org/abs/2107.02377 "A Short Note
+on the Relationship of Information Gain and Eluder Dimension"], ICML 2021
+Workshop on Reinforcement Learning Theory
+
+3. Kurtland Chua, *Qi Lei*, Jason D Lee. [https://arxiv.org/abs/2110.09507 "Provable Hierarchy-Based Meta-Reinforcement
+Learning"], arXiv preprint
+
+2. Lemeng Wu, Mao Ye, *Qi Lei*, Jason D. Lee, and Qiang Liu.  [https://arxiv.org/abs/2003.10392 "Steepest Descent Neural Architecture Optimization: Escaping Local Optimum with Signed Neural Splitting"], /arxiv preprint/
+
+1. Minhao Cheng, *Qi Lei*, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh. [https://arxiv.org/abs/2002.06789  "CAT: Customized Adversarial Training for Improved Robustness"], /arxiv preprint/
 
 == Dissertation
 
