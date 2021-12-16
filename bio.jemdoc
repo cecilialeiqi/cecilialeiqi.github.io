@@ -90,16 +90,57 @@ UCLA Biomath Department, Los Angeles, CA
 Visiting Student    ~~~~~~  /July 2013 - September 2013/ 
 
 == Invited Talk
-[http://faculty.smu.edu/sxu/SIAMTXLA19/index.html "Deep Generative models and Inverse Problems"], Nov\/02\/2019: 
-Minisymposium on Machine Learning for Solving Partial Differential Equations and Inverse Problems, 2019 SIAM Texas-Louisiana Section, Dallas, TX, USA
 
-[https://www.youtube.com/watch?v=UnakqzVLVLI "Discrete Adversarial Attacks and Submodular Optimization with Applications to Text Classification"], July\/02\/2019: Simons-Berkeley Fellows Talk, Berkeley, CA, USA. April\/01\/2019: SysML19, Stanford, CA, USA.
+``Optimal Gradient-based Algorithms for Non-concave Bandit Optimization."
+- [http://bliss.eecs.berkeley.edu/Seminar/fa21/qi.html BLISS seminar], UC Berkeley, virtual 2021
+- [https://simons.berkeley.edu/talks/optimal-gradient-based-algorithms-non-concave-bandit-optimization Sampling Algorithms and Geometries on Probability Distributions Workshop], Simons Institute, CA, 2021 
 
-[http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66077 "Recent Advances in Primal-Dual Coordinate Methods for ERM"], Feb\/25\/2019: 
-Minisymposium on Recent Progress in Coordinate-wise Descent Methods, 2019 SIAM Conference on Computational Science and Engineering, Spokane, WA, USA ([pd_slides.pdf slides]) 
 
-[http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=22986 "Coordinate Descent Methods for Matrix Factorization"], July\/11\/2016: 
-Minisymposium on Recent Advances in Nonnegative Matrix Factorization, SIAM Annual Meeting, Boston, USA
+`` Few-Shot Learning via Learning the Representation, Provably.''
+- [https://iclr.cc/media/Slides/iclr/2021/virtual(07-00-00)-07-00-00UTC-2535-few-shot_learni.pdf International Conference on Learning Representations], virtual, 2021
+- IAS, Princeton, NJ, 2020 
+- Simons Institute Reunion, virtual, 2020 -UC Berkeley, virtual, 2020	
+
+
+``Predicting What You Already Know Helps: Provable Self-Supervised Learning.''
+- Neural Information Processing Systems, virtual, 2021
+- [https://www.ifml.institute/events Institute for Foundations of Machine Learning], virtual, 2020
+- [https://www.oneworldml.org/past-events One-World ML seminar], virtual, 2020
+- UW-Madison, virtual, 2020	 
+
+``Provable representation learning.''
+- [https://sites.google.com/view/slowdnn/ Young Researcher Spotlight Talk] at ``Seeking Low-dimensionality in Deep Learning'' workshop, virtual, 2020 
+- Microsoft Research (Redmond and NY), virtual, 2021  
+- [https://cms.caltech.edu/events/90169 Caltech Young Investigators Lecture Series], virtual, 2021
+- [https://twitter.com/ml_umd/status/1458125253197058054 Rising star presentation] at the University of Maryland, virtual, 2021
+- [https://talks-calendar.app.ist.ac.at/events/3329 ELLIS Talk at IST Austria], virtual, 2021
+- [https://www.ece.gatech.edu/calendar/day/2021/12/03/108208?utm_source=ECE+Lists+2019&utm_campaign=a5a1732812-EMAIL_CAMPAIGN_2019_08_06_08_30_COPY_01&utm_medium=email&utm_term=0_0324b14402-a5a1732812-103287103 CSIP seminar at Georgia Tech], virtual, 2021
+- USC Machine Learning Seminar, virtual, 2021
+
+``SGD Learns One-Layer Networks in WGANs.''
+- [https://papertalk.org/papertalks/6195 International Conference of Machine Learning] (ICML), virtual, 2020
+- [https://simons.berkeley.edu/talks/sgd-learns-one-layer-networks-wgans Workshop on Learning and Testing in High Dimensions], Simons Institute, 2020
+
+``Deep Generative models and Inverse Problems.''
+- [http://faculty.smu.edu/sxu/SIAMTXLA19/submissions.html Minisymposium on Machine Learning for Solving Partial Differential Equations and Inverse Problems], 2019 SIAM Texas-Louisiana Section, Dallas, TX, 2019 
+- Princeton, virtual, 2020 
+- Google Research, virtual, 2021
+
+
+``Similarity Preserving Representation Learning for Time Series Analysis.''
+- [https://www.ijcai.org/proceedings/2019/394 The 28th International Joint Conference on Artificial Intelligence] (IJCAI), Macao, China, 2019
+
+``Discrete Adversarial Attacks and Submodular Optimization with Applications to Text Classification.''
+- Simons-Berkeley Fellows Talk, Berkeley, CA, 2019 
+- [https://www.youtube.com/watch?v=UnakqzVLVLI The Conference on Systems and Machine Learning]  (SysML), Stanford, CA, 
+ 2019
+
+``Recent Advances in Primal-Dual Coordinate Methods for ERM.''
+- [https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66077 Minisymposium on Recent Progress in Coordinate-wise Descent Methods], SIAM Conference on Computational Science and Engineering, Spokane, WA, 2019
+- International Conference of Machine Learning (ICML), Sydney, 2017  
+ 
+``Coordinate Descent Methods for Matrix Factorization.''
+- [https://archive.siam.org/meetings/an16/ Minisymposium on Recent Advances in Nonnegative Matrix Factorization], SIAM Annual Meeting, Boston, MA, 2016
 
 
 == Service
