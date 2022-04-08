@@ -68,17 +68,17 @@ My research interests are *machine learning*, *deep learning*, and *optimization
 [05/2021] New paper out:
 [https://arxiv.org/abs/2105.02221  How Fine-Tuning Allows for Effective Meta-Learning]
 
-[03/2021] My PhD thesis [https://cecilialeiqi.github.io/LEI-DISSERTATION-2020.pdf Provably Effective Algorithms for Min-Max Optimization] won this year's [https://www.oden.utexas.edu/about/news/qi-lei-wins-Outstanding-Dissertation-Award/ Oden Institute Outstanding Dissertation Award] 
+#[03/2021] My PhD thesis [https://cecilialeiqi.github.io/LEI-DISSERTATION-2020.pdf Provably Effective Algorithms for Min-Max Optimization] won this year's [https://www.oden.utexas.edu/about/news/qi-lei-wins-Outstanding-Dissertation-Award/ Oden Institute Outstanding Dissertation Award] 
 
-[01/2021] Our paper is accepted at AISTATS 2021:
-- *Qi Lei*\*, Sai Ganesh Nagarajan\*, Ioannis Panageas\*, Xiao Wang\*. "Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes"
+#[01/2021] Our paper is accepted at AISTATS 2021:
+#- *Qi Lei*\*, Sai Ganesh Nagarajan\*, Ioannis Panageas\*, Xiao Wang\*. "Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes"
 
-[01/2021] Our paper is accepted at ICLR 2021:
-- Simon S. Du\*, Wei Hu\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*. "Few-Shot Learning via Learning the Representation, Provably"
+#[01/2021] Our paper is accepted at ICLR 2021:
+#- Simon S. Du\*, Wei Hu\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*. #"Few-Shot Learning via Learning the Representation, Provably"
 
-[12/2020] I'm invited to give a talk on [https://simons.berkeley.edu/talks/sgd-learns-one-layer-networks-wgans SGD learns one-layer network with WGANs] at [https://simons.berkeley.edu/workshops/hd-2020-3 Learning and Testing in High Dimensions]
+#[12/2020] I'm invited to give a talk on [https://simons.berkeley.edu/talks/sgd-learns-one-layer-networks-wgans SGD learns one-layer network with WGANs] at [https://simons.berkeley.edu/workshops/hd-2020-3 Learning and Testing in High Dimensions]
 
-[11/2020] I'm invited to give a Young Researcher Spotlight Talk at the [https://sites.google.com/view/slowdnn/ "Seeking Low-dimensionality in Deep Learning"] workshop on my recent work of [https://www.youtube.com/watch?v=SvddIPXjNDU&list=PL7P834wcUN3eSh7Nn4wzPBjEnme4Rls7n&index=15&ab_channel=SLowDNNWorkshop provable representation learning]
+#[11/2020] I'm invited to give a Young Researcher Spotlight Talk at the [https://sites.google.com/view/slowdnn/ "Seeking Low-dimensionality in Deep Learning"] workshop on my recent work of [https://www.youtube.com/watch?v=SvddIPXjNDU&list=PL7P834wcUN3eSh7Nn4wzPBjEnme4Rls7n&index=15&ab_channel=SLowDNNWorkshop provable representation learning]
 
 #[10/2020] I'm invited to give a talk on [https://www.youtube.com/watch?v=5A1iKkPv1Y0&feature=youtu.be&ab_channel=Oneworldtheoreticalmachinelearning provable self-supervised learning] at [https://www.oneworldml.org/ One-World ML seminar] 
 
