@@ -71,7 +71,7 @@ My research interests are *machine learning*, *deep learning*, and *optimization
 #[03/2021] My PhD thesis [https://cecilialeiqi.github.io/LEI-DISSERTATION-2020.pdf Provably Effective Algorithms for Min-Max Optimization] won this year's [https://www.oden.utexas.edu/about/news/qi-lei-wins-Outstanding-Dissertation-Award/ Oden Institute Outstanding Dissertation Award] 
 
 #[01/2021] Our paper is accepted at AISTATS 2021:
-#- *Qi Lei*\*, Sai Ganesh Nagarajan\*, Ioannis Panageas\*, Xiao Wang\*. "Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes"
+#- *Qi Lei*\*, Sai Ganesh Nagarajan\*, Ioannis Panageas\*, Xiao Wang\*. #"Last iterate convergence in no-regret learning: constrained min-max optimization for convex-concave landscapes"
 
 #[01/2021] Our paper is accepted at ICLR 2021:
 #- Simon S. Du\*, Wei Hu\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*. #"Few-Shot Learning via Learning the Representation, Provably"
