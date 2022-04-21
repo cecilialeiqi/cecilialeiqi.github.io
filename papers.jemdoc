@@ -9,14 +9,15 @@
 
 == Publications
 
+29. Minhao Cheng, *Qi Lei*, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh [https://arxiv.org/abs/2002.06789 ``Cat: Customized adversarial training for improved robustness"], /to appear at IJCAI 2022/
 
-28. Baihe Huang\*, Kaixuan Huang\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*, Runzhe Wang\*, Jiaqi Yang\* [https://arxiv.org/abs/2107.04518 ``Optimal Gradient-based Algorithms for Non-concave Bandit Optimization"], /to appear to NeurIPS 2021/
+28. Baihe Huang\*, Kaixuan Huang\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*, Runzhe Wang\*, Jiaqi Yang\* [https://arxiv.org/abs/2107.04518 ``Optimal Gradient-based Algorithms for Non-concave Bandit Optimization"], /NeurIPS 2021/
 
-27. Baihe Huang\*, Kaixuan Huang\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*, Runzhe Wang\*, Jiaqi Yang\* [https://arxiv.org/abs/2107.06466 ``Going Beyond Linear RL: Sample Efficient Neural Function Approximation], /to appear to NeurIPS 2021/
+27. Baihe Huang\*, Kaixuan Huang\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*, Runzhe Wang\*, Jiaqi Yang\* [https://arxiv.org/abs/2107.06466 ``Going Beyond Linear RL: Sample Efficient Neural Function Approximation], /NeurIPS 2021/
 
-26. Kurtland Chua, *Qi Lei*, Jason D. Lee, [https://arxiv.org/abs/2105.02221 ``How fine-tuning allows for effective meta-learning"], /to appear at NeurIPS 2021/
+26. Kurtland Chua, *Qi Lei*, Jason D. Lee, [https://arxiv.org/abs/2105.02221 ``How fine-tuning allows for effective meta-learning"], /NeurIPS 2021/
 
-25. Jason D Lee\*, *Qi Lei*\*, Nikunj Saunshi\*, Jiacheng Zhuo\*, [https://arxiv.org/abs/2008.01064 ``Predicting What You Already Know Helps: Provable Self-Supervised Learning"], /to appear at NeurIPS 2021/
+25. Jason D Lee\*, *Qi Lei*\*, Nikunj Saunshi\*, Jiacheng Zhuo\*, [https://arxiv.org/abs/2008.01064 ``Predicting What You Already Know Helps: Provable Self-Supervised Learning"], /NeurIPS 2021/
 
 
 24. Tianle Cai\*, Ruiqi Gao\*, Jason D Lee\*, *Qi Lei*\*. [https://arxiv.org/abs/2102.11203 ``A Theory of Label Propagation for Subpopulation Shift"], /ICML 2021/
