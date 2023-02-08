@@ -32,6 +32,11 @@ For prospective students or interns who want to work with me in short term, plea
 
 
 == News and Announcement
+[01/2023] Four papers accepted at AISTATS 2023:
+- Zihan Wang, Jason Lee, *Qi Lei*. [https://arxiv.org/abs/2212.03714 ``Reconstructing Training Data from Model Gradient, Provably"]
+- Shuo Yang, Yijun Dong, Rachel Ward, Inderjit Dhillon, Sujay Sanghavi, *Qi Lei*. [https://arxiv.org/abs/2202.12230 ``Sample Efficiency of Data Augmentation Consistency Regularization"]
+- Kurtland Chua, *Qi Lei*, Jason Lee. [https://arxiv.org/abs/2110.09507 ``Provable Hierarchy-Based Meta-Reinforcement Learning"]
+- Qian Yu, Yining Wang, Baihe Huang, *Qi Lei*, Jason Lee. ``Optimal Sample Complexity Bounds for Non-convex Optimization under Kurdyka-Lojasiewicz Condition"
 
 [01/2023] Invited talk at [https://slowdnn-workshop.github.io/schedule/ SLowDNN] on [https://arxiv.org/abs/2212.03714 reconstruction attack with guarantees]
 
