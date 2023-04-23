@@ -9,7 +9,17 @@
 
 == Publications
 
-29. Minhao Cheng, *Qi Lei*, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh [https://arxiv.org/abs/2002.06789 ``Cat: Customized adversarial training for improved robustness"], /to appear at IJCAI 2022/
+34. Zihan Wang, Jason Lee, *Qi Lei*. [https://arxiv.org/abs/2212.03714 ``Reconstructing Training Data from Model Gradient, Provably"], /AISTATS 2023/
+
+33 Shuo Yang, Yijun Dong, Rachel Ward, Inderjit Dhillon, Sujay Sanghavi, *Qi Lei*. [https://arxiv.org/abs/2202.12230 ``Sample Efficiency of Data Augmentation Consistency Regularization"], /AISTATS 2023/
+
+32. Kurtland Chua, *Qi Lei*, Jason Lee. [https://arxiv.org/abs/2110.09507 ``Provable Hierarchy-Based Meta-Reinforcement Learning"], /AISTATS 2023/
+
+31. Qian Yu, Yining Wang, Baihe Huang, *Qi Lei*, Jason Lee. ``Optimal Sample Complexity Bounds for Non-convex Optimization under Kurdyka-Lojasiewicz Condition", /AISTATS 2023/
+
+30. Chun-Yin Huang, *Qi Lei*, Xiaoxiao Li, [https://arxiv.org/abs/2209.14434 Efficient Medical Image Assessment via Self-supervised Learning], /MICCAI Workshop, DALI 2022/, with *Best Paper Honorable Mention*
+
+29. Minhao Cheng, *Qi Lei*, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh [https://arxiv.org/abs/2002.06789 ``Cat: Customized adversarial training for improved robustness"], /IJCAI 2022/
 
 28. Baihe Huang\*, Kaixuan Huang\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*, Runzhe Wang\*, Jiaqi Yang\* [https://arxiv.org/abs/2107.04518 ``Optimal Gradient-based Algorithms for Non-concave Bandit Optimization"], /NeurIPS 2021/
 
@@ -78,20 +88,6 @@ Systems (NIPS), Dec. 2016/ ([https://github.com/cecilialeiqi/CPM code],[cpm_post
 1. Jiazhou Chen, *Qi Lei*, Fan Zhong, Qunsheng Peng, [imagePro.pdf "Interactive Tensor Field Design Based on Line Singularities"], /Proceedings of the 13th International CAD\/Graphics, 2013/ [imagePro/imagePro.zip (code)]
 
 
-== Preprints
-
-5. Tianci Liu, Quan Zhang, *Qi Lei*, [https://openreview.net/forum?id=aOnjg9Z2vIF "PANOM: Automatic Hyper-parameter Tuning for Inverse Problems"], NeurIPS 2021 Workshop on Deep Learning and Inverse Problems
-
-4. Kaixuan Huang\*, Sham M. Kakade\*, Jason D. Lee\*, *Qi Lei*\*, [https://arxiv.org/abs/2107.02377 "A Short Note
-on the Relationship of Information Gain and Eluder Dimension"], ICML 2021
-Workshop on Reinforcement Learning Theory
-
-3. Kurtland Chua, *Qi Lei*, Jason D Lee. [https://arxiv.org/abs/2110.09507 "Provable Hierarchy-Based Meta-Reinforcement
-Learning"], arXiv preprint
-
-2. Lemeng Wu, Mao Ye, *Qi Lei*, Jason D. Lee, and Qiang Liu.  [https://arxiv.org/abs/2003.10392 "Steepest Descent Neural Architecture Optimization: Escaping Local Optimum with Signed Neural Splitting"], /arXiv preprint/
-
-1. Minhao Cheng, *Qi Lei*, Pin-Yu Chen, Inderjit Dhillon, Cho-Jui Hsieh. [https://arxiv.org/abs/2002.06789  "CAT: Customized Adversarial Training for Improved Robustness"], /arXiv preprint/
 
 == Dissertation
 
