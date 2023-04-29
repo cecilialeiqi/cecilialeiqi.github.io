@@ -33,6 +33,9 @@ For prospective students or interns who want to work with me in short term, plea
 For prospective post-doc applicants, I encourage you to apply for the positions of [https://cds.nyu.edu/fellowsjobs/ CDS Faculty Fellows], [https://math.nyu.edu/dynamic/research/postdoctoral-and-visitor-programs/ Courant Instructors], and [https://www.simonsfoundation.org/grant/flatiron-research-fellow-opportunities/ Flatiron Research Fellows]. 
 
 == News and Announcement
+[04/2023] Paper accepted at ICML 2023: 
+-  Tianci Liu, Tong Yang, Quan Zhang, *Qi Lei*. [https://arxiv.org/abs/2210.13983 ``Optimization for Amortized Inverse Problems"]
+
 [04/2023] Won the NYU Research Catalyst Prize jointly with [https://www.stern.nyu.edu/faculty/bio/zhengyuan-zhou Zhengyuan Zhou]
 
 [01/2023] Four papers accepted at AISTATS 2023:
@@ -51,15 +54,15 @@ For prospective post-doc applicants, I encourage you to apply for the positions 
 
 [05/2022] Presented my recent work on [https://cecilialeiqi.github.io/LP.pdf handling distribution shifts] and won *best poster award* at [http://zke.fas.harvard.edu/HawaiiConference/Main.html New Advances in Statistics and Data Science] 
 
-[04/2022] Invited talk on [https://cecilialeiqi.github.io/job_talk.pdf Theoretical foundations of Pre-trained Models] at AlgML seminar in Princeton 
+#[04/2022] Invited talk on [https://cecilialeiqi.github.io/job_talk.pdf Theoretical foundations of Pre-trained Models] at AlgML seminar in Princeton 
 
-[04/2022] Invited talk at [https://math.dartmouth.edu/~acms/ Dartmouth ACMS] 
+#[04/2022] Invited talk at [https://math.dartmouth.edu/~acms/ Dartmouth ACMS] 
 
-[03/2022] New papers out:
-- [https://arxiv.org/abs/2202.12230 Sample Efficiency of Data Augmentation Consistency Regularization]
-- [https://arxiv.org/abs/2203.15664 Nearly Minimax Algorithms for Linear Bandits with Shared Representation]
+#[03/2022] New papers out:
+#- [https://arxiv.org/abs/2202.12230 Sample Efficiency of Data Augmentation Consistency Regularization]
+#- [https://arxiv.org/abs/2203.15664 Nearly Minimax Algorithms for Linear Bandits with Shared Representation]
 
-[02/2022] Invited talk at [https://simons.berkeley.edu/workshops/games2022-1 Adversarial Approaches in Machine Learning workshop] at Simons Institute
+#[02/2022] Invited talk at [https://simons.berkeley.edu/workshops/games2022-1 Adversarial Approaches in Machine Learning workshop] at Simons Institute
 
 #[12/2021] Invited talk at the [https://drive.google.com/file/d/1wAEyNqGaY_GrnoUXXdSXbLlNdGIBLSu-/view USC Machine Learning Symposium] 
 
