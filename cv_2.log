@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2021.12.28)  10 JUN 2022 17:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2021.12.28)  21 JUN 2023 00:02
 entering extended mode
 **./cv_2.tex
 (cv_2.tex
@@ -252,56 +252,38 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 181.
 
-Overfull \hbox (12.73811pt too wide) in paragraph at lines 186--187
+Overfull \hbox (18.60127pt too wide) in paragraph at lines 192--194
+[]\OT1/cmr/m/n/10 Kurtland Chua, \OT1/cmr/bx/n/10 Qi Lei\OT1/cmr/m/n/10 , Ja-so
+n Lee. ``Prov-able Hierarchy-Based Meta-Reinforcement
+ []
+
+
+Overfull \hbox (12.73811pt too wide) in paragraph at lines 205--206
 \OT1/cmr/m/n/10 concave Ban-dit Op-ti-miza-tion", \OT1/cmr/m/it/10 Neu-ral In-f
 or-ma-tion Pro-cess-ing Sys-tems (NeurIPS),
  []
 
 
-Overfull \hbox (7.5159pt too wide) in paragraph at lines 193--194
+Overfull \hbox (7.5159pt too wide) in paragraph at lines 212--213
 \OT1/cmr/m/n/10 ral Func-tion Ap-prox-i-ma-tion", \OT1/cmr/m/it/10 Neu-ral In-f
 or-ma-tion Pro-cess-ing Sys-tems (NeurIPS),
  []
 
-[2] [3]
-Overfull \hbox (28.46129pt too wide) in paragraph at lines 292--293
-[]\OT1/cmr/m/n/10 Kurtland Chua, \OT1/cmr/bx/n/10 Qi Lei\OT1/cmr/m/n/10 , Ja-so
-n D Lee. ``Prov-able Hierarchy-Based Meta-Reinforcement
- []
-
-Excluding 'comment' comment. [4]
-Overfull \hbox (6.42212pt too wide) in paragraph at lines 384--386
+[2] [3] Excluding 'comment' comment. [4]
+Overfull \hbox (6.42212pt too wide) in paragraph at lines 416--418
 []\OT1/cmr/m/sl/10 Conference Re-viewer: \OT1/cmr/m/n/10 ML-Sys (19,20,Meta-rev
 iewer'21, TPC'22), COLT (21,22), STOC
  []
 
-
-Overfull \hbox (1.61763pt too wide) in paragraph at lines 424--425
-[][]\OT1/cmr/m/n/10 Young Re-searcher Spot-light Talk[] at ``Seek-ing Low-dimen
-sionality in Deep Learn-
- []
-
-[5]
-Overfull \hbox (7.61765pt too wide) in paragraph at lines 464--465
-[][]\OT1/cmr/m/n/10 The 28th In-ter-na-tional Joint Con-fer-ence on Ar-ti-fi-ci
-al In-tel-li-gence[] (IJ-CAI), Macao,
- []
-
-
-Overfull \hbox (0.31204pt too wide) in paragraph at lines 478--479
-[][]\OT1/cmr/m/n/10 Minisymposium on Re-cent Progress in Coordinate-wise De-sce
-nt Meth-ods[], SIAM
- []
-
-Excluding 'comment' comment. [6] ) 
+Excluding 'comment' comment. [5] ) 
 Here is how much of TeX's memory you used:
- 7841 strings out of 478686
- 126092 string characters out of 2846645
- 663020 words of memory out of 3000000
- 25848 multiletter control sequences out of 15000+600000
+ 7837 strings out of 478686
+ 125996 string characters out of 2846645
+ 662020 words of memory out of 3000000
+ 25845 multiletter control sequences out of 15000+600000
  407677 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,63p,298b,475s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,8n,63p,308b,475s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\qilei\AppData\Local\MiKTeX\fonts/p
 k/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/qilei/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/qilei/AppData/Local/
@@ -315,9 +297,9 @@ fonts/cm/cmsl10.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmsy8.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmti10.pfb><C:/Users/qilei/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv_2.pdf (6 pages, 182522 bytes).
+Output written on cv_2.pdf (5 pages, 175232 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
- 46 named destinations out of 1000 (max. 500000)
+ 153 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
