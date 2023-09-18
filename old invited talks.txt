@@ -1,0 +1,12 @@
+
+[http://faculty.smu.edu/sxu/SIAMTXLA19/index.html "Deep Generative models and Inverse Problems"], Nov\/02\/2019: 
+Minisymposium on Machine Learning for Solving Partial Differential Equations and Inverse Problems, 2019 SIAM Texas-Louisiana Section, Dallas, TX, USA
+
+[https://www.youtube.com/watch?v=UnakqzVLVLI "Discrete Adversarial Attacks and Submodular Optimization with Applications to Text Classification"], July\/02\/2019: Simons-Berkeley Fellows Talk, Berkeley, CA, USA. April\/01\/2019: SysML19, Stanford, CA, USA.
+
+[http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66077 "Recent Advances in Primal-Dual Coordinate Methods for ERM"], Feb\/25\/2019: 
+Minisymposium on Recent Progress in Coordinate-wise Descent Methods, 2019 SIAM Conference on Computational Science and Engineering, Spokane, WA, USA ([pd_slides.pdf slides]) 
+
+[http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=22986 "Coordinate Descent Methods for Matrix Factorization"], July\/11\/2016: 
+Minisymposium on Recent Advances in Nonnegative Matrix Factorization, SIAM Annual Meeting, Boston, USA
+
