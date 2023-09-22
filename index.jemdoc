@@ -36,6 +36,12 @@ For prospective students or interns who want to work with me in short term, plea
 For prospective post-doc applicants, I encourage you to apply for the positions of [https://cds.nyu.edu/fellowsjobs/ CDS Faculty Fellows], [https://math.nyu.edu/dynamic/research/postdoctoral-and-visitor-programs/ Courant Instructors], and [https://www.simonsfoundation.org/grant/flatiron-research-fellow-opportunities/ Flatiron Research Fellows]. 
 
 == News and Announcement
+
+[09/2023] Two papers accepted at Neurips 2023:
+- Yijun Dong, Kevin Miller, *Qi Lei*, Rachel Ward. [https://arxiv.org/pdf/2307.11030 ``Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering"]
+- Qian Yu, Yining Wang, Baihe Huang, *Qi Lei*, Jason D. Lee. [https://arxiv.org/pdf/2306.12383 ``Sample Complexity for Quadratic Bandits: Hessian Dependent Bounds and Optimal Algorithms"]
+
+
 [08/2023] Won the [https://www.nyu.edu/content/dam/nyu/provost/documents/Research/2017_Whitehead_Fellowship.pdf Whitehead Fellowship for Junior Faculty in Biomedical and Biological Sciences]
 
 [06/2023] New papers out:
@@ -51,7 +57,7 @@ For prospective post-doc applicants, I encourage you to apply for the positions 
 - Zihan Wang, Jason Lee, *Qi Lei*. [https://arxiv.org/abs/2212.03714 ``Reconstructing Training Data from Model Gradient, Provably"]
 - Shuo Yang, Yijun Dong, Rachel Ward, Inderjit Dhillon, Sujay Sanghavi, *Qi Lei*. [https://arxiv.org/abs/2202.12230 ``Sample Efficiency of Data Augmentation Consistency Regularization"]
 - Kurtland Chua, *Qi Lei*, Jason Lee. [https://arxiv.org/abs/2110.09507 ``Provable Hierarchy-Based Meta-Reinforcement Learning"]
-- Qian Yu, Yining Wang, Baihe Huang, *Qi Lei*, Jason Lee. ``Optimal Sample Complexity Bounds for Non-convex Optimization under Kurdyka-Lojasiewicz Condition"
+- Qian Yu, Yining Wang, Baihe Huang, *Qi Lei*, Jason Lee. [https://proceedings.mlr.press/v206/yu23a/yu23a.pdf ``Optimal Sample Complexity Bounds for Non-convex Optimization under Kurdyka-Lojasiewicz Condition"]
 
 [01/2023] Invited talk at [https://slowdnn-workshop.github.io/schedule/ SLowDNN] on [https://arxiv.org/abs/2212.03714 reconstruction attack with guarantees]
 
