@@ -37,6 +37,10 @@ For prospective post-doc applicants, I encourage you to apply for the positions 
 
 == News and Announcement
 
+[10/2023] Two papers (1 main + 1 findings) accepted at EMNLP 2023:
+- Jianwei Li, *Qi Lei*, Wei Cheng, Dongkuan Xu. [cecilialeiqi.github.io ``Towards Robust Pruning: An Adaptive Knowledge-Retention Pruning Strategy for Language Models"]
+- Jianwei Li, Weizhi Gao, *Qi Lei*, Dongkuan Xu. [cecilialeiqi.github.io ``Breaking through Deterministic Barriers: Randomized Pruning Mask Generation and Selection"] 
+
 [09/2023] Two papers accepted at Neurips 2023:
 - Yijun Dong, Kevin Miller, *Qi Lei*, Rachel Ward. [https://arxiv.org/pdf/2307.11030 ``Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering"]
 - Qian Yu, Yining Wang, Baihe Huang, *Qi Lei*, Jason D. Lee. [https://arxiv.org/pdf/2306.12383 ``Sample Complexity for Quadratic Bandits: Hessian Dependent Bounds and Optimal Algorithms"]
