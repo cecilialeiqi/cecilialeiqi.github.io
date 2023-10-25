@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU_teaching}{teaching_info.html}
+# The first line of this file is a special command that tells jemdoc which menu
+# entry in the file named MENU to associate this page with.
+= DA-GA3001: Modern Topics in Statistical Learning Theory
+
+~~~
+Center for Data Science, New York University, Spring 2023
+
+Instructor: Qi Lei
+~~~
+
+Welcome to the DA-GA3001 course webpage for Spring 2023.
+
+== Course Description:
+
+This course is a graduate-level topic course focusing on the theoretical grounding and statistical properties
+of the modern learning algorithms - with a focus on weakly supervised learning.
+
+The intended topics to cover include: basics in machine learning, optimization and generalization bound,
+followed by the introduction and theoretical understanding surrounding meta-learning, self-supervised learning, and domain adaptation.
+To benefit from this class, strong linear algebra, probability, and optimization background are required.
+Students should be familiar with basic machine learning and deep learning concepts.
+
+The class consists of 3 units. In the first unit, we will cover the more standard theoretical analysis
+tools used in deep learning including stochastic gradient, uniform convergence theory and statistical learning
+theory.
+
+After the first unit, the course will move on to specific topics (Unit 2: transfer learning and Unit 3: self-supervised learning). Since some topics covered in this course are quite recent, some content will be based
+on recent papers instead of a textbook.
+
+== Resources for the class: 
+
+Even though the content of this course is not based on a specific textbook, the following materials are good references for certain topics of the course.
+
+- [http://web.stanford.edu/class/stats214/ Stanford CS 229M notes]
+
+- [http://www.cs.umd.edu/class/fall2022/cmsc828W/info.html CMSC 828W notes: Foundations of Deep Learning]
+
+- [https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E Wainwright Book (High dimensional statistics non-asymptotic]
+
+- [https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf  Vershynin's book]
+
+
