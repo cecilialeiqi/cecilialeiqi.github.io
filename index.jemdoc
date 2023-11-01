@@ -37,9 +37,11 @@ For prospective post-doc applicants, I encourage you to apply for the positions 
 
 == News and Announcement
 
+[10/2023] I am a co-PI on the [https://rome.cims.nyu.edu/ ROME: Reduced Modeling with Extreme Data project], a Department of Energy project developing Science Foundations for Energy Earthshots. More information is in the [https://www.energy.gov/articles/doe-announces-264-million-basic-research-support-energy-earthshotstm DOE press release].
+
 [10/2023] Two papers (1 main + 1 findings) accepted at EMNLP 2023:
-- Jianwei Li, *Qi Lei*, Wei Cheng, Dongkuan Xu. [cecilialeiqi.github.io ``Towards Robust Pruning: An Adaptive Knowledge-Retention Pruning Strategy for Language Models"]
-- Jianwei Li, Weizhi Gao, *Qi Lei*, Dongkuan Xu. [cecilialeiqi.github.io ``Breaking through Deterministic Barriers: Randomized Pruning Mask Generation and Selection"] 
+- Jianwei Li, *Qi Lei*, Wei Cheng, Dongkuan Xu. [https://arxiv.org/abs/2310.13191 ``Towards Robust Pruning: An Adaptive Knowledge-Retention Pruning Strategy for Language Models"]
+- Jianwei Li, Weizhi Gao, *Qi Lei*, Dongkuan Xu. [https://arxiv.org/abs/2310.13183 ``Breaking through Deterministic Barriers: Randomized Pruning Mask Generation and Selection"] 
 
 [09/2023] Two papers accepted at Neurips 2023:
 - Yijun Dong, Kevin Miller, *Qi Lei*, Rachel Ward. [https://arxiv.org/pdf/2307.11030 ``Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering"]
