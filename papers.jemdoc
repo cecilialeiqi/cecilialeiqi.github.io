@@ -8,7 +8,19 @@
 
 
 == Publications
-35. Tianci Liu, Tong Yang, Quan Zhang, *Qi Lei*. [https://arxiv.org/abs/2210.13983 ``Optimization for Amortized Inverse Problems"], /To appear at ICML 2023/ 
+41. Zhiyu Xue, Yinlong Dai, *Qi Lei*. [https://openreview.net/pdf?id=MlgnGWdqWl ``Exploring Minimally Sufficient Representation in Active Learning through Label-Irrelevant Patch Augmentation"], /CPAL 2024/
+
+40. Jianwei Li, Sheng Liu, *Qi Lei*. [https://arxiv.org/abs/2312.05720 ``Beyond Gradient and Priors in Privacy Attacks: Leveraging Pooler Layer Inputs of Language Models in Federated Learning"], /FL@FM-NeurIPS 2023/
+
+39. Yijun Dong, Kevin Miller, *Qi Lei*, Rachel Ward. [https://arxiv.org/pdf/2307.11030 ``Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering"], /NeurIPS 2023/
+
+38. Qian Yu, Yining Wang, Baihe Huang, *Qi Lei*, Jason D. Lee. [https://arxiv.org/pdf/2306.12383 ``Sample Complexity for Quadratic Bandits: Hessian Dependent Bounds and Optimal Algorithms"], /NeurIPS 2023/
+
+37. Jianwei Li, *Qi Lei*, Wei Cheng, Dongkuan Xu. [https://arxiv.org/abs/2310.13191 ``Towards Robust Pruning: An Adaptive Knowledge-Retention Pruning Strategy for Language Models"], /EMNLP-Main 2023/
+
+36. Jianwei Li, Weizhi Gao, *Qi Lei*, Dongkuan Xu. [https://arxiv.org/abs/2310.13183 ``Breaking through Deterministic Barriers: Randomized Pruning Mask Generation and Selection"], /EMNLP-Findings 2023/
+
+35. Tianci Liu, Tong Yang, Quan Zhang, *Qi Lei*. [https://arxiv.org/abs/2210.13983 ``Optimization for Amortized Inverse Problems"], /ICML 2023/ 
 
 34. Zihan Wang, Jason Lee, *Qi Lei*. [https://arxiv.org/abs/2212.03714 ``Reconstructing Training Data from Model Gradient, Provably"], /AISTATS 2023/
 
