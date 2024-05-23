@@ -4,43 +4,34 @@
 = DA-GA3001: Modern Topics in Statistical Learning Theory
 
 ~~~
-Center for Data Science, New York University, Spring 2023
+Center for Data Science, New York University, Spring 2024
 
 Instructor: Qi Lei
 ~~~
 
-Welcome to the DA-GA3001 course webpage for Spring 2023.
+Welcome to the DA-GA3001 course webpage for Spring 2024.
+
 
 == Syllabus
-- [ds3001/syllabus.pdf syllabus]
+- [ds3001-2024/syllabus.pdf syllabus]
 
-== Scribed Notes
+== Scribed Notes (for Unit 2 and 3)
 
-- Lecture 1: [ds3001/lecture_1.pdf Basics of Machine Learning]
+=== Unit 1: Foundamentals of Deep Learning Theory
+[teaching2023.html Spring 2023 lecture notes]
 
-- Lecture 2: [ds3001/lecture_2.pdf Generalization bound: concentration inequality]
+=== Unit 2: Feature learning
 
+- Lecture 8: [ds3001-2024/Lecture8.pdf Meta representation learning]
 
-- Lecture 3: [ds3001/lecture_3.pdf Generalization bound: uniform convergence]
+- Lecture 9: [ds3001-2024/Lecture9.pdf Self-supervised learning]
 
-- Lecture 4: [ds3001/lecture_4.pdf Generalization bound: complexity measure]
+- Lecture 10: [ds3001-2024/Lecture10.pdf Domain adaptation]
 
-- Lecture 5: [ds3001/lecture_5.pdf Theory of deep learning: (non-convex) optimization]
+=== Unit 3: AI safety
 
-- Lecture 6: [ds3001/lecture_6.pdf Theory of deep learning: neural tangent kernel]
+- Lecture 11: [ds3001-2024/Lecture11.pdf Copyright and watermark]
 
+- Lecture 12: [ds3001-2024/Lecture12.pdf Data privacy 1]
 
-- Lecture 7: [ds3001/lecture_7.pdf Theory of deep learning: implicit/algorithmic regularization]
-
-- Lecture 8: [ds3001/lecture_8.pdf Meta learning]
-
-- Lecture 9: [ds3001/lecture_9.pdf Domain adaptation]
-
-- Lecture 10: [ds3001/lecture_10.pdf Domain generalization]
-
-
-- Lecture 11: [ds3001/lecture_11.pdf Data augmentation]
-
-- Lecture 12: [ds3001/lecture_12.pdf Self-supervised learning]
-
-- Lecture 13: [ds3001/lecture_13.pdf Transformer]
+- Lecture 13: [ds3001-2024/Lecture13.pdf Data privacy 2]

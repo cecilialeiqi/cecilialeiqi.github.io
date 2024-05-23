@@ -39,6 +39,10 @@ For prospective post-doc applicants, I encourage you to apply for the positions 
 
 == News and Announcement
 
+[05/2024] Two papers accepted at ICML 2024:
+- Hoang Phan, Andrew Gordon Wilson, *Qi Lei*. [https://arxiv.org/abs/2403.02695 Controllable Prompt Tuning For Balancing Group Distributional Robustness]
+- Hong Jun Jeon, Jason D Lee, *Qi Lei*, Benjamin Van Roy. [https://arxiv.org/abs/2401.15530 An Information-Theoretic Analysis of In-Context Learning]
+
 [04/2024] Congratulations to my Capstone team Christine Gao, Ciel Wang and Yuqi Zhang on winning the [https://cds.nyu.edu/capstone-project/ Best Student Voted Runner-Up Poster] (out of 46 projects!) with their great work on [https://cecilialeiqi.github.io/CapstonePoster.pdf Medical Data Leakage with Multi-site Collabrative Training]
 
 [03/2024] Invited talk at the [https://ee-ciss.princeton.edu/ CISS 24@Princeton] on data reconstruction attack and defense [https://cecilialeiqi.github.io/privacy_ciss.pdf (slides)]
@@ -73,10 +77,10 @@ Augmentation][https://cecilialeiqi.github.io/CPAL_active_learning.pdf (slides)] 
 - [https://arxiv.org/pdf/2307.11030 Cluster-aware Semi-supervised Learning: Relational Knowledge Distillation Provably Learns Clustering]
 - [https://arxiv.org/pdf/2306.12383 Sample Complexity for Quadratic Bandits: Hessian Dependent Bounds and Optimal Algorithms]
 
-[04/2023] Paper accepted at ICML 2023: 
--  Tianci Liu, Tong Yang, Quan Zhang, *Qi Lei*. [https://arxiv.org/abs/2210.13983 ``Optimization for Amortized Inverse Problems"]
+#[04/2023] Paper accepted at ICML 2023: 
+#-  Tianci Liu, Tong Yang, Quan Zhang, *Qi Lei*. [https://arxiv.org/abs/2210.13983 ``Optimization for Amortized Inverse Problems"]
 
-[04/2023] Won the NYU Research Catalyst Prize jointly with [https://www.stern.nyu.edu/faculty/bio/zhengyuan-zhou Zhengyuan Zhou]
+#[04/2023] Won the NYU Research Catalyst Prize jointly with [https://www.stern.nyu.edu/faculty/bio/zhengyuan-zhou Zhengyuan Zhou]
 
 #[01/2023] Four papers accepted at AISTATS 2023:
 #- Zihan Wang, Jason Lee, *Qi Lei*. [https://arxiv.org/abs/2212.03714 ``Reconstructing Training Data from Model Gradient, Provably"]

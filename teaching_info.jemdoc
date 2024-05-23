@@ -4,29 +4,31 @@
 = DA-GA3001: Modern Topics in Statistical Learning Theory
 
 ~~~
-Center for Data Science, New York University, Spring 2023
+Center for Data Science, New York University, Spring 2024
 
 Instructor: Qi Lei
 ~~~
 
-Welcome to the DA-GA3001 course webpage for Spring 2023.
+Welcome to the DA-GA3001 course webpage for Spring 2024.
 
 == Course Description:
 
 This course is a graduate-level topic course focusing on the theoretical grounding and statistical properties
-of the modern learning algorithms - with a focus on weakly supervised learning.
-
+of the modern learning algorithms — with a focus on feature learning and AI safety.
 The intended topics to cover include: basics in machine learning, optimization and generalization bound,
-followed by the introduction and theoretical understanding surrounding meta-learning, self-supervised learning, and domain adaptation.
+followed by the introduction and theoretical understanding surrounding meta-learning, self-supervised learning,
+domain adaptation, and AI safety.
+
 To benefit from this class, strong linear algebra, probability, and optimization background are required.
 Students should be familiar with basic machine learning and deep learning concepts.
-
 The class consists of 3 units. In the first unit, we will cover the more standard theoretical analysis
 tools used in deep learning including stochastic gradient, uniform convergence theory and statistical learning
 theory.
 
-After the first unit, the course will move on to specific topics (Unit 2: transfer learning and Unit 3: self-supervised learning). Since some topics covered in this course are quite recent, some content will be based
-on recent papers instead of a textbook.
+After the first unit, the course will move on to specific topics (Unit 2: feature learning and Unit 3: AI
+safety). Since some topics covered in this course are quite recent, some content will be based on recent
+papers instead of a textbook.
+
 
 == Resources for the class: 
 
@@ -40,4 +42,4 @@ Even though the content of this course is not based on a specific textbook, the 
 
 - [https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf  Vershynin's book]
 
-
+- [http://www.gautamkamath.com/CS860-fa2020.html Kamath's CS 860]

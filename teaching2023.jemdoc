@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU_teaching}{teaching2023.html}
+# The first line of this file is a special command that tells jemdoc which menu
+# entry in the file named MENU to associate this page with.
+= DA-GA3001: Modern Topics in Statistical Learning Theory
+
+~~~
+Center for Data Science, New York University, Spring 2023
+
+Instructor: Qi Lei
+~~~
+
+Welcome to the DA-GA3001 course webpage for Spring 2023.
+
+== Syllabus
+- [ds3001/syllabus.pdf syllabus]
+
+== Scribed Notes
+
+- Lecture 1: [ds3001/lecture_1.pdf Basics of Machine Learning]
+
+- Lecture 2: [ds3001/lecture_2.pdf Generalization bound: concentration inequality]
+
+- Lecture 3: [ds3001/lecture_3.pdf Generalization bound: uniform convergence]
+
+- Lecture 4: [ds3001/lecture_4.pdf Generalization bound: complexity measure]
+
+- Lecture 5: [ds3001/lecture_5.pdf Theory of deep learning: (non-convex) optimization]
+
+- Lecture 6: [ds3001/lecture_6.pdf Theory of deep learning: neural tangent kernel]
+
+- Lecture 7: [ds3001/lecture_7.pdf Theory of deep learning: implicit/algorithmic regularization]
+
+- Lecture 8: [ds3001/lecture_8.pdf Meta learning]
+
+- Lecture 9: [ds3001/lecture_9.pdf Domain adaptation]
+
+- Lecture 10: [ds3001/lecture_10.pdf Domain generalization]
+
+- Lecture 11: [ds3001/lecture_11.pdf Data augmentation]
+
+- Lecture 12: [ds3001/lecture_12.pdf Self-supervised learning]
+
+- Lecture 13: [ds3001/lecture_13.pdf Transformer]

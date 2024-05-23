@@ -5,9 +5,12 @@
 
 
 
-
-
 == Publications
+
+43. Hoang Phan, Andrew G Wilson, *Qi Lei*. [https://arxiv.org/abs/2403.02695 ``Controllable Prompt Tuning For Balancing Group Distributional Robustness"]，/To appear at ICML 2024/
+
+42. Hong Jun Jeon, Jason D Lee, *Qi Lei*, Benjamin Van Roy. [https://arxiv.org/abs/2401.15530 ``An Information-Theoretic Analysis of In-Context Learning"], /To appear at ICML 2024/
+
 41. Zhiyu Xue, Yinlong Dai, *Qi Lei*. [https://openreview.net/pdf?id=MlgnGWdqWl ``Exploring Minimally Sufficient Representation in Active Learning through Label-Irrelevant Patch Augmentation"], /CPAL 2024/
 
 40. Jianwei Li, Sheng Liu, *Qi Lei*. [https://arxiv.org/abs/2312.05720 ``Beyond Gradient and Priors in Privacy Attacks: Leveraging Pooler Layer Inputs of Language Models in Federated Learning"], /FL@FM-NeurIPS 2023/
