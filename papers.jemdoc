@@ -7,9 +7,13 @@
 
 == Publications
 
-43. Hoang Phan, Andrew G Wilson, *Qi Lei*. [https://arxiv.org/abs/2403.02695 ``Controllable Prompt Tuning For Balancing Group Distributional Robustness"]，/To appear at ICML 2024/
+45. Yijun Dong, Hoang Phan, Xiang Pan, *Qi Lei*. [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning], /to appear at NeurIPS 2024/
 
-42. Hong Jun Jeon, Jason D Lee, *Qi Lei*, Benjamin Van Roy. [https://arxiv.org/abs/2401.15530 ``An Information-Theoretic Analysis of In-Context Learning"], /To appear at ICML 2024/
+44. Qian Yu, Yining Wang, Baihe Huang, *Qi Lei*, Jason D Lee. [https://arxiv.org/abs/2406.19617 Stochastic Zeroth-Order Optimization under Strongly Convexity and Lipschitz Hessian: Minimax Sample Complexity], /to appear at NeurIPS 2024/
+
+43. Hoang Phan, Andrew G Wilson, *Qi Lei*. [https://arxiv.org/abs/2403.02695 ``Controllable Prompt Tuning For Balancing Group Distributional Robustness"]，/ICML 2024/
+
+42. Hong Jun Jeon, Jason D Lee, *Qi Lei*, Benjamin Van Roy. [https://arxiv.org/abs/2401.15530 ``An Information-Theoretic Analysis of In-Context Learning"], /ICML 2024/
 
 41. Zhiyu Xue, Yinlong Dai, *Qi Lei*. [https://openreview.net/pdf?id=MlgnGWdqWl ``Exploring Minimally Sufficient Representation in Active Learning through Label-Irrelevant Patch Augmentation"], /CPAL 2024/
 
