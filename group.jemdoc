@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{index.html}
+# The first line of this file is a special command that tells jemdoc which menu
+# entry in the file named MENU to associate this page with.
+= Group
+
+== PhD students
+
+- [https://viethoang1512.github.io/ Hoang Phan] (Co-advised by Andrew Gordon Wilson)
+- [https://xiangpan.info/ Xiang Pan]
+- [https://cds.nyu.edu/team/victor-li/ Victor Li] (Co-advised by Carlos Fernandez-Granda)
+- [https://cds.nyu.edu/team/chenruo-liu/ Chenruo Liu]
+- [https://scholar.google.com/citations?user=ZBF2zKMAAAAJ&hl=en/ Zihan Wang] 
+

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2021.12.28)  16 MAY 2024 15:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2021.12.28)  17 OCT 2024 14:25
 entering extended mode
 **./cv_2.tex
 (cv_2.tex
@@ -248,64 +248,70 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {C:/Users/qilei/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 183.
+(Font)              <8> on input line 184.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 183.
+(Font)              <6> on input line 184.
 
-Overfull \hbox (5.40678pt too wide) in paragraph at lines 191--192
+Overfull \hbox (3.77715pt too wide) in paragraph at lines 198--199
 []\OT1/cmr/m/n/10 Yijun Dong, Kevin Miller, \OT1/cmr/bx/n/10 Qi Lei\OT1/cmr/m/n
-/10 , Rachel Ward. ``Cluster-aware Semi-supervised
+/10 , Rachel Ward, ``Cluster-aware Semi-supervised
  []
 
 
-Overfull \hbox (18.60127pt too wide) in paragraph at lines 205--207
+Overfull \hbox (16.97163pt too wide) in paragraph at lines 212--214
 []\OT1/cmr/m/n/10 Kurtland Chua, \OT1/cmr/bx/n/10 Qi Lei\OT1/cmr/m/n/10 , Ja-so
-n Lee. ``Prov-able Hierarchy-Based Meta-Reinforcement
+n Lee, ``Prov-able Hierarchy-Based Meta-Reinforcement
  []
 
 
-Overfull \hbox (12.73811pt too wide) in paragraph at lines 218--219
+Overfull \hbox (12.73811pt too wide) in paragraph at lines 225--226
 \OT1/cmr/m/n/10 concave Ban-dit Op-ti-miza-tion", \OT1/cmr/m/it/10 Neu-ral In-f
 or-ma-tion Pro-cess-ing Sys-tems (NeurIPS),
  []
 
-
-Overfull \hbox (7.5159pt too wide) in paragraph at lines 225--226
+[2]
+Overfull \hbox (7.5159pt too wide) in paragraph at lines 232--233
 \OT1/cmr/m/n/10 ral Func-tion Ap-prox-i-ma-tion", \OT1/cmr/m/it/10 Neu-ral In-f
 or-ma-tion Pro-cess-ing Sys-tems (NeurIPS),
  []
 
-[2] [3] [4] Excluding 'comment' comment.
-Overfull \hbox (6.42212pt too wide) in paragraph at lines 429--431
-[]\OT1/cmr/m/sl/10 Conference Re-viewer: \OT1/cmr/m/n/10 ML-Sys (19,20,Meta-rev
-iewer'21, TPC'22), COLT (21,22), STOC
+[3]
+Overfull \hbox (16.00473pt too wide) in paragraph at lines 314--315
+\OT1/cmr/m/n/10 De-sign: Fast Data Se-lec-tion un-der Low In-trin-sic Di-men-si
+on", \OT1/cmr/m/it/10 ML and Compression-
  []
 
-[5] Excluding 'comment' comment. [6] ) 
+[4] Excluding 'comment' comment. [5]
+Overfull \hbox (0.47876pt too wide) in paragraph at lines 449--450
+[]\OT1/cmr/m/sl/10 Journal Re-viewer: \OT1/cmr/m/n/10 MOR, JMLR, An-nuls of Sta
+tis-tics, EJMS, JSAIT, TNNLS, TKDE,
+ []
+
+Excluding 'comment' comment. [6] ) 
 Here is how much of TeX's memory you used:
- 7844 strings out of 478686
- 126044 string characters out of 2846645
+ 7846 strings out of 478686
+ 126058 string characters out of 2846645
  664020 words of memory out of 3000000
  25845 multiletter control sequences out of 15000+600000
  407677 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,63p,331b,473s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\qilei\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/qilei/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/qilei/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/qilei/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users
-/qilei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
-C:/Users/qilei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
-i8.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmr10.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmsl10.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmsy8.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/qilei/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv_2.pdf (6 pages, 178586 bytes).
+ 60i,8n,63p,331b,475s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\qilei\AppData\Local\MiKTeX\fonts/p
+k/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/qilei/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/qilei/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/qilei/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/qil
+ei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/U
+sers/qilei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.p
+fb><C:/Users/qilei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr10.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmsl10.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmsy8.pfb><C:/Users/qilei/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/qilei/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on cv_2.pdf (6 pages, 179953 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 52 named destinations out of 1000 (max. 500000)
+ 170 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
