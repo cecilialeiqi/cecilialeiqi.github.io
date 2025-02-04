@@ -39,6 +39,15 @@ For prospective students or interns who want to work with me in short term, plea
 For prospective post-doc applicants, I encourage you to apply for the positions of [https://cds.nyu.edu/fellowsjobs/ CDS Faculty Fellows], [https://math.nyu.edu/dynamic/research/postdoctoral-and-visitor-programs/ Courant Instructors], and [https://www.simonsfoundation.org/flatiron/careers/?tab=job-openings&center=ccm Flatiron Research Fellows]. 
 
 == News and Announcement
+[01/2025] Three papers accepted at AISTATS 2025:
+- Sheng Liu, Zihan Wang, *Qi Lei*. [https://arxiv.org/abs/2402.09478 Data Reconstruction Attacks and Defenses: A Systematic Evaluation]
+- Tao Wen, Zihan Wang, Quan Zhang, *Qi Lei*. [cecilialeiqi.github.io Elastic Representation: Mitigating Spurious Correlations for Group Robustness]
+- Ziliang Samuel Zhong, Xiang Pan, *Qi Lei*. [https://arxiv.org/abs/2403.06424 Bridging Domains with Approximately Shared Features]
+
+[01/2025] Paper accepted at ICLR 2025: 
+- Qi Zhang, Yifei Wang, Jingyi Cui, Xiang Pan, *Qi Lei*, Stefanie Jegelka, Yisen Wang. [https://arxiv.org/abs/2410.21331 Beyond Interpretability: The Gains of Feature Monosemanticity on Model Robustness]
+
+[01/2025] Invited talk at [https://ims.nus.edu.sg/ IMS@NUS] on [https://cecilialeiqi.github.io/data_reconstruction_error_icsds.pdf Theoretical Bounds of Data Reconstruction Error and Induced Optimal Defenses (slides)] 
 
 [12/2024] Invited talk at ICSDS on [https://cecilialeiqi.github.io/data_reconstruction_error_icsds.pdf Theoretical Bounds of Data Reconstruction Error and Induced Optimal Defenses (slides)]
 
@@ -69,11 +78,11 @@ For prospective post-doc applicants, I encourage you to apply for the positions 
 - [https://arxiv.org/abs/2403.06424 Bridging Domains with Approximately Shared Features]
 - [https://arxiv.org/abs/2403.02695 Controllable Prompt Tuning For Balancing Group Distributional Robustness]
 
-[01/2024] New papers out:
-- [https://arxiv.org/pdf/2312.05720 Beyond Gradient and Priors in Privacy Attacks: Leveraging Pooler Layer Inputs of Language Models in Federated Learning]
-- [https://arxiv.org/abs/2401.15530 An Information-Theoretic Analysis of In-Context Learning]
+#[01/2024] New papers out:
+#- [https://arxiv.org/pdf/2312.05720 Beyond Gradient and Priors in Privacy Attacks: Leveraging Pooler Layer Inputs of Language Models in Federated Learning]
+#- [https://arxiv.org/abs/2401.15530 An Information-Theoretic Analysis of In-Context Learning]
 
-[01/2024] Presented our recent paper [https://openreview.net/pdf?id=MlgnGWdqWl Exploring Minimally Sufficient Representation in
+#[01/2024] Presented our recent paper [https://openreview.net/pdf?id=MlgnGWdqWl Exploring Minimally Sufficient Representation in
 Active Learning through Label-Irrelevant Patch
 Augmentation][https://cecilialeiqi.github.io/CPAL_active_learning.pdf (slides)] at [https://cpal.cc/ CPAL2024]
 

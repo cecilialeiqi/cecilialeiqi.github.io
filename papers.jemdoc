@@ -6,10 +6,17 @@
 
 
 == Publications
+49. Sheng Liu, Zihan Wang, *Qi Lei*. [https://arxiv.org/abs/2402.09478 Data Reconstruction Attacks and Defenses: A Systematic Evaluation], /to appear at AISTATS 2025/ 
 
-45. Yijun Dong, Hoang Phan, Xiang Pan, *Qi Lei*. [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning], /to appear at NeurIPS 2024/
+48. Tao Wen, Zihan Wang, Quan Zhang, *Qi Lei*. [cecilialeiqi.github.io Elastic Representation: Mitigating Spurious Correlations for Group Robustness], /to appear at AISTATS 2025/
 
-44. Qian Yu, Yining Wang, Baihe Huang, *Qi Lei*, Jason D Lee. [https://arxiv.org/abs/2406.19617 Stochastic Zeroth-Order Optimization under Strongly Convexity and Lipschitz Hessian: Minimax Sample Complexity], /to appear at NeurIPS 2024/
+47. Ziliang Samuel Zhong, Xiang Pan, *Qi Lei*. [https://arxiv.org/abs/2403.06424 Bridging Domains with Approximately Shared Features], /to appear at AISTATS 2025/
+
+46. Qi Zhang, Yifei Wang, Jingyi Cui, Xiang Pan, *Qi Lei*, Stefanie Jegelka, Yisen Wang. [https://arxiv.org/abs/2410.21331 Beyond Interpretability: The Gains of Feature Monosemanticity on Model Robustness], /to appear at ICLR 2025/ 
+
+45. Yijun Dong, Hoang Phan, Xiang Pan, *Qi Lei*. [https://arxiv.org/abs/2407.06120 Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning], /NeurIPS 2024/
+
+44. Qian Yu, Yining Wang, Baihe Huang, *Qi Lei*, Jason D Lee. [https://arxiv.org/abs/2406.19617 Stochastic Zeroth-Order Optimization under Strongly Convexity and Lipschitz Hessian: Minimax Sample Complexity], /NeurIPS 2024/
 
 43. Hoang Phan, Andrew G Wilson, *Qi Lei*. [https://arxiv.org/abs/2403.02695 ``Controllable Prompt Tuning For Balancing Group Distributional Robustness"]，/ICML 2024/
 
