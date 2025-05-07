@@ -39,6 +39,9 @@ For prospective students or interns who want to work with me in short term, plea
 For prospective post-doc applicants, I encourage you to apply for the positions of [https://cds.nyu.edu/fellowsjobs/ CDS Faculty Fellows], [https://math.nyu.edu/dynamic/research/postdoctoral-and-visitor-programs/ Courant Instructors], and [https://www.simonsfoundation.org/flatiron/careers/?tab=job-openings&center=ccm Flatiron Research Fellows]. 
 
 == News and Announcement
+[04/2025] Paper accepted at ICML 2025:
+- Yijun Dong, Yicheng Li, Yunai Li, Jason D Lee, *Qi Lei*. [https://arxiv.org/abs/2502.05075 Discrepancies are Virtue: Weak-to-Strong Generalization through Lens of Intrinsic Dimension]
+
 [01/2025] Three papers accepted at AISTATS 2025:
 - Sheng Liu, Zihan Wang, Yuxiao Chen, *Qi Lei*. [https://arxiv.org/abs/2402.09478 Data Reconstruction Attacks and Defenses: A Systematic Evaluation]
 - Tao Wen, Zihan Wang, Quan Zhang, *Qi Lei*. [https://arxiv.org/abs/2502.09850 Elastic Representation: Mitigating Spurious Correlations for Group Robustness]
@@ -69,14 +72,14 @@ For prospective post-doc applicants, I encourage you to apply for the positions 
 - Hoang Phan, Andrew Gordon Wilson, *Qi Lei*. [https://arxiv.org/abs/2403.02695 Controllable Prompt Tuning For Balancing Group Distributional Robustness]
 - Hong Jun Jeon, Jason D Lee, *Qi Lei*, Benjamin Van Roy. [https://arxiv.org/abs/2401.15530 An Information-Theoretic Analysis of In-Context Learning]
 
-[04/2024] Congratulations to my Capstone team Christine Gao, Ciel Wang and Yuqi Zhang on winning the [https://cds.nyu.edu/capstone-project/ Best Student Voted Runner-Up Poster] (out of 46 projects!) with their great work on [https://cecilialeiqi.github.io/CapstonePoster.pdf Medical Data Leakage with Multi-site Collabrative Training]
+#[04/2024] Congratulations to my Capstone team Christine Gao, Ciel Wang and Yuqi Zhang on winning the #[https://cds.nyu.edu/capstone-project/ Best Student Voted Runner-Up Poster] (out of 46 projects!) with their great work on #[https://cecilialeiqi.github.io/CapstonePoster.pdf Medical Data Leakage with Multi-site Collabrative Training]
 
-[03/2024] Invited talk at the [https://ee-ciss.princeton.edu/ CISS 24@Princeton] on data reconstruction attack and defense [https://cecilialeiqi.github.io/privacy_ciss.pdf (slides)]
+#[03/2024] Invited talk at the [https://ee-ciss.princeton.edu/ CISS 24@Princeton] on data reconstruction attack and defense #[https://cecilialeiqi.github.io/privacy_ciss.pdf (slides)]
 
-[03/2024] New papers out:
-- [https://arxiv.org/pdf/2402.09478 Data Reconstruction Attacks and Defenses: A Systematic Evaluation]
-- [https://arxiv.org/abs/2403.06424 Bridging Domains with Approximately Shared Features]
-- [https://arxiv.org/abs/2403.02695 Controllable Prompt Tuning For Balancing Group Distributional Robustness]
+#[03/2024] New papers out:
+#- [https://arxiv.org/pdf/2402.09478 Data Reconstruction Attacks and Defenses: A Systematic Evaluation]
+#- [https://arxiv.org/abs/2403.06424 Bridging Domains with Approximately Shared Features]
+#- [https://arxiv.org/abs/2403.02695 Controllable Prompt Tuning For Balancing Group Distributional Robustness]
 
 #[01/2024] New papers out:
 #- [https://arxiv.org/pdf/2312.05720 Beyond Gradient and Priors in Privacy Attacks: Leveraging Pooler Layer Inputs of Language Models in Federated Learning]
@@ -234,6 +237,9 @@ For prospective post-doc applicants, I encourage you to apply for the positions 
 == Selected Papers
 
 ([papers.html full publication list])
+
+
+8. Yijun Dong, Yicheng Li, Yunai Li, Jason D Lee, *Qi Lei*, [https://arxiv.org/abs/2502.05075 Discrepancies are Virtue: Weak-to-Strong Generalization through Lens of Intrinsic Dimension], to appear at ICML 2025
 
 7. Sheng Liu\*, Zihan Wang\*, Yuxiao Chen, *Qi Lei*, [https://arxiv.org/pdf/2402.09478 "Data Reconstruction Attacks and Defenses: A Systematic
 Evaluation"], AISTATS 2025
