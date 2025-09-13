@@ -22,9 +22,9 @@ Email: ql518 at nyu.edu
 
 == Research Overview
 
-My research interests are *machine learning*, *deep learning*, and *optimization*. Specifically, I am interested in developing sample- and computationally efficient algorithms for some fundamental machine learning problems. 
+My research aims to *bridge the theoretical and empirical boundary of modern machine learning algorithms* and in particular *AI safety*, with a focus on /data privacy/, /distributionally robust algorithms/, /sample- and parameter-efficient learning/. 
 
-Recent research highlights: [https://cecilialeiqi.github.io/data_model_pruning.pdf (Data and Model Pruning)], [https://cecilialeiqi.github.io/data_reconstruction_slides.pdf (Data Reconstruction Attack and Defense)], [https://cecilialeiqi.github.io/job_talk.pdf (Theoretical Foundations of Pre-trained Models)]
+Recent research highlights: [https://cecilialeiqi.github.io/weak-2-strong-FSML.pdf (Weak-to-Strong Generalization)], [https://cecilialeiqi.github.io/data_reconstruction_slides.pdf (Data Reconstruction Attack and Defense)], [https://cecilialeiqi.github.io/data_model_pruning.pdf (Data and Model Pruning)], [https://cecilialeiqi.github.io/job_talk.pdf (Theoretical Foundations of Pre-trained Models)]
  
 ([cv_2.pdf Curriculum Vitae], [https://github.com/cecilialeiqi/ Github], [https://scholar.google.com/citations?user=kGOgaowAAAAJ&hl=en Google Scholar])
 
@@ -34,11 +34,15 @@ I am actively looking for self-motivated and proactive students to work with. Yo
 
 For Ph.D. applicants, please apply to [https://math.nyu.edu/dynamic/graduate/phd-mathematics/admission-policies/ Courant Mathematics] or [https://cds.nyu.edu/phd-program/ Center for Data Science] whichever you see fit and mention my name in your application. I do not plan to admit students from Courant CS for now.
 
-For prospective students or interns who want to work with me in short term, please fill out [https://forms.gle/bfV5598RaBkrEvMi7 this form] so that we could find a suitable project for you. 
+#For prospective students or interns who want to work with me in short term, please fill out [https://forms.gle/bfV5598RaBkrEvMi7 this form] so that we could find a suitable project for you. 
 
 For prospective post-doc applicants, I encourage you to apply for the positions of [https://cds.nyu.edu/fellowsjobs/ CDS Faculty Fellows], [https://math.nyu.edu/dynamic/research/postdoctoral-and-visitor-programs/ Courant Instructors], and [https://www.simonsfoundation.org/flatiron/careers/?tab=job-openings&center=ccm Flatiron Research Fellows]. 
 
 == News and Announcement
+[08/2025] Invited talk at [https://fsmlims.wixsite.com/fsml25 the Inaugural Workshop on Frontiers in Statistical Machine Learning] on [https://cecilialeiqi.github.io/weak-2-strong-FSML.pdf Weak-to-Strong Generalization]
+
+[07/2025] Invited talk at [https://web.cvent.com/event/0fc81644-f4d8-416b-84d3-be802f613f7a/summary Inverse Methods for Complex Systems under Uncertainty Workshop] on [https://cecilialeiqi.github.io/flash_talk.pdf Data Reconstruction Attacks in AI models are Inverse Problems]
+
 [05/2025] Paper accepted at UAI 2025:
 - Tianci Liu, Tong Yang, Quan Zhang, *Qi Lei*. [https://openreview.net/forum?id=3uK3fLpjtD Beyond Invisibility: Learning Robust Visible Watermarks for Stronger Copyright Protection]
 
