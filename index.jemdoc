@@ -24,7 +24,7 @@ Email: ql518 at nyu.edu
 
 My research aims to *bridge the theoretical and empirical boundary of modern machine learning algorithms* and in particular *AI safety*, with a focus on /data privacy/, /distributionally robust algorithms/, /sample- and parameter-efficient learning/. 
 
-Recent research highlights: [https://cecilialeiqi.github.io/weak-2-strong-FSML.pdf (Weak-to-Strong Generalization)], [https://cecilialeiqi.github.io/data_reconstruction_slides.pdf (Data Reconstruction Attack and Defense)], [https://cecilialeiqi.github.io/data_model_pruning.pdf (Data and Model Pruning)], [https://cecilialeiqi.github.io/job_talk.pdf (Theoretical Foundations of Pre-trained Models)]
+Recent research highlights: [https://cecilialeiqi.github.io/slides_W2S.pdf (Weak-to-Strong Generalization)], [https://cecilialeiqi.github.io/data_reconstruction_slides.pdf (Data Reconstruction Attack and Defense)], [https://cecilialeiqi.github.io/data_model_pruning.pdf (Data and Model Pruning)], [https://cecilialeiqi.github.io/job_talk.pdf (Theoretical Foundations of Pre-trained Models)]
  
 ([cv_2.pdf Curriculum Vitae], [https://github.com/cecilialeiqi/ Github], [https://scholar.google.com/citations?user=kGOgaowAAAAJ&hl=en Google Scholar])
 
@@ -39,6 +39,8 @@ For Ph.D. applicants, please apply to [https://math.nyu.edu/dynamic/graduate/phd
 For prospective post-doc applicants, I encourage you to apply for the positions of [https://cds.nyu.edu/fellowsjobs/ CDS Faculty Fellows], [https://math.nyu.edu/dynamic/research/postdoctoral-and-visitor-programs/ Courant Instructors], and [https://www.simonsfoundation.org/flatiron/careers/?tab=job-openings&center=ccm Flatiron Research Fellows]. 
 
 == News and Announcement
+[09/2025] Invited talk at [https://www-math.umd.edu/research/seminars/numerical-analysis-seminar.html Maryland Numerical Analysis Group] on [https://cecilialeiqi.github.io/slides_W2S.pdf Virtues and Pitfalls of Weak-to-Strong Generalization: Intrinsic Dimension and Spurious Correlation]
+
 [08/2025] Invited talk at [https://fsmlims.wixsite.com/fsml25 the Inaugural Workshop on Frontiers in Statistical Machine Learning] on [https://cecilialeiqi.github.io/weak-2-strong-FSML.pdf Weak-to-Strong Generalization]
 
 [07/2025] Invited talk at [https://web.cvent.com/event/0fc81644-f4d8-416b-84d3-be802f613f7a/summary Inverse Methods for Complex Systems under Uncertainty Workshop] on [https://cecilialeiqi.github.io/flash_talk.pdf Data Reconstruction Attacks in AI models are Inverse Problems]
